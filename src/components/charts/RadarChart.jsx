@@ -12,7 +12,7 @@ export default function RadarChart({ axes, series, height = 340 }) {
   const angle = (axis) => (axes.indexOf(axis) / axes.length) * Math.PI * 2;
   const line = d3.lineRadial().radius((d) => radius * (d.value / 100)).angle((d) => angle(d.axis)).curve(d3.curveLinearClosed);
   return (
-    <div ref={ref} className="relative w-full overflow-visible">
+    <div ref={ref} className="relative w-full overflow-hidden">
       <svg width={width} height={height} role="img" aria-label="Radar chart" onMouseLeave={() => setTooltip(null)}>
         <g transform={`translate(${center.x},${center.y})`}>
           {[25, 50, 75, 100].map((ring) => (

@@ -12,7 +12,7 @@ export default function HorizontalBars({ data, height = 360 }) {
   const max = d3.max(data, (d) => Math.max(Number(d.left || 0), Number(d.right || 0))) || 1;
   const x = d3.scaleLinear().domain([-max, max]).range([margin.left, width - margin.right]);
   return (
-    <div ref={ref} className="relative w-full overflow-visible">
+    <div ref={ref} className="relative w-full overflow-hidden">
       <svg width={width} height={height} role="img" aria-label="Comparison bars" onMouseLeave={() => setTooltip(null)}>
         <line x1={x(0)} x2={x(0)} y1={margin.top} y2={height - margin.bottom} stroke="#8D8D8D" />
         {data.map((row) => (

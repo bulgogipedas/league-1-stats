@@ -115,8 +115,8 @@ function PlayerContent() {
       </Card>
       <div className="mt-4 grid gap-4 xl:grid-cols-[1fr_0.9fr]">
         <Card title="Player Rankings" kicker={`${filtered.length} players`}>
-          <div className="overflow-x-auto">
-            <table className="w-full min-w-[760px] text-sm">
+          <div className="-mx-4 overflow-x-auto px-4 sm:mx-0 sm:px-0">
+            <table className="w-full min-w-[680px] text-sm sm:min-w-[760px]">
               <thead className="text-left text-sm text-muted"><tr>{["Rank", "Player", "Team", "Pos", "Min", "MP", "Overall", sortBy].map((h) => <th key={h} className="px-3 py-2">{h}</th>)}</tr></thead>
               <tbody>{pageRows.map((player, index) => {
                 const isActive = active?.Player === player.Player && active?.Team === player.Team;
@@ -179,12 +179,12 @@ function PlayerContent() {
               );
             })}</div>
             {compare && (
-              <div className="mt-4 overflow-x-auto border border-border">
+              <div className="-mx-4 mt-4 overflow-x-auto border border-border px-4 sm:mx-0 sm:px-0">
                 <div className="border-b border-border bg-panel px-3 py-2">
                   <p className="text-sm font-semibold">Comparison board</p>
                   <p className="text-xs text-muted">Exact values, role metrics, and the current edge for each stat.</p>
                 </div>
-                <table className="w-full min-w-[560px] text-sm">
+                <table className="w-full min-w-[520px] text-sm sm:min-w-[560px]">
                   <thead className="bg-panel text-left text-sm text-muted"><tr><th className="px-3 py-2">Metric</th><th className="px-3 py-2">{active.Player}</th><th className="px-3 py-2">{compare.Player}</th><th className="px-3 py-2">Edge</th></tr></thead>
                   <tbody>
                     {comparisonMetrics.map((metric) => {

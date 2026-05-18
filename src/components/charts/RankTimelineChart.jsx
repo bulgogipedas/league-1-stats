@@ -15,7 +15,7 @@ export default function RankTimelineChart({ series, height = 340 }) {
   const line = d3.line().x((d) => x(d.week)).y((d) => y(d.rank)).curve(d3.curveMonotoneX);
 
   return (
-    <div ref={ref} className="relative w-full overflow-visible">
+    <div ref={ref} className="relative w-full overflow-hidden">
       <svg width={width} height={height} role="img" aria-label="Table rank timeline" onMouseLeave={() => setTooltip(null)}>
         {[1, 3, 6, 9, 12, 15, 18].map((tick) => (
           <g key={tick}>

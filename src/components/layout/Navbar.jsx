@@ -14,13 +14,13 @@ export default function Navbar() {
   return (
     <>
       <header className="fixed inset-x-0 top-0 z-40 border-b border-border bg-bg">
-        <div className="mx-auto flex h-12 max-w-[1584px] items-center justify-between px-4 sm:px-6 lg:px-8">
+        <div className="mx-auto flex h-12 max-w-[1584px] items-center justify-between px-3 sm:px-6 lg:px-8">
           <NavLink to="/overview" className="flex items-center gap-3" aria-label="Liga 1 Analytics overview">
             <span className="grid h-8 w-8 place-items-center border border-border bg-white">
               <img src={leagueLogo.image} alt="Liga 1 logo" className="h-7 w-7 object-contain p-0.5" />
             </span>
             <span>
-              <span className="block text-sm font-semibold text-text">Liga 1 Analytics</span>
+              <span className="block text-sm font-semibold text-text">PunditStat</span>
             </span>
           </NavLink>
           <nav className="hidden items-center gap-1 md:flex" aria-label="Primary navigation">

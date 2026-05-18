@@ -11,7 +11,7 @@ export default function ScatterPlot({ data, xKey, yKey, selected, height = 330 }
   const x = d3.scaleLinear().domain([0, d3.max(data, (d) => Number(d[xKey] || 0)) || 1]).nice().range([margin.left, width - margin.right]);
   const y = d3.scaleLinear().domain([0, d3.max(data, (d) => Number(d[yKey] || 0)) || 1]).nice().range([height - margin.bottom, margin.top]);
   return (
-    <div ref={ref} className="relative w-full overflow-visible">
+    <div ref={ref} className="relative w-full overflow-hidden">
       <svg width={width} height={height} role="img" aria-label="Scatter plot" onMouseLeave={() => setTooltip(null)}>
         {x.ticks(5).map((tick) => <text key={tick} x={x(tick)} y={height - 14} textAnchor="middle" className="fill-muted text-[10px]">{tick}</text>)}
         {y.ticks(5).map((tick) => (

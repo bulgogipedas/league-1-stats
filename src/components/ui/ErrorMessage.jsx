@@ -7,7 +7,7 @@ export default function ErrorMessage({ error, context = "dashboard", onRetry, co
   const rawMessage = typeof error === "string" ? error : error?.message;
 
   return (
-    <section className={`border border-loss bg-white ${compact ? "p-4" : "p-6"}`} role="alert" aria-live="polite">
+    <section className={`border border-loss bg-white ${compact ? "p-4" : "p-4 sm:p-6"}`} role="alert" aria-live="polite">
       <div className="flex items-start gap-3">
         <span className="grid h-10 w-10 shrink-0 place-items-center border border-loss bg-panel text-loss">
           <Icon className="h-5 w-5" />

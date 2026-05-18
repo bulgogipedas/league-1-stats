@@ -81,8 +81,8 @@ function OverviewContent() {
 
       <div className="mt-4 grid gap-4 xl:grid-cols-[1.2fr_0.8fr]">
         <Card title="Standings Table" kicker="League table">
-          <div className="overflow-x-auto">
-            <table className="w-full min-w-[760px] text-left text-sm">
+          <div className="-mx-4 overflow-x-auto px-4 sm:mx-0 sm:px-0">
+            <table className="w-full min-w-[680px] text-left text-sm sm:min-w-[760px]">
               <thead className="text-sm text-muted">
                 <tr>{["Pos", "team", "MP", "W", "D", "L", "GF", "GA", "GD", "Pts"].map((key) => <th key={key} className="px-3 py-2"><button type="button" onClick={() => setSortKey(key)}>{key === "team" ? "Club" : key === "W" ? "Wins" : key === "D" ? "Draws" : key === "L" ? "Loses" : key}</button></th>)}<th className="px-3 py-2">Form</th></tr>
               </thead>
@@ -107,11 +107,11 @@ function OverviewContent() {
         <Card title="Top performers" kicker="Estimated season totals from per-90 source, minimum 450 minutes" action={<Tabs tabs={topTabs} active={topMetric} onChange={setTopMetric} />}>
           <div className="space-y-2">
             {topPlayers.map((player, index) => (
-              <div key={`${player.Player}-${player.Team}`} className="grid grid-cols-[34px_1fr_auto] items-center gap-3 border border-border bg-panel px-3 py-2">
+              <div key={`${player.Player}-${player.Team}`} className="grid grid-cols-[28px_minmax(0,1fr)_auto] items-center gap-2 border border-border bg-panel px-3 py-2 sm:grid-cols-[34px_minmax(0,1fr)_auto] sm:gap-3">
                 <span className="stat-number text-muted">{index + 1}</span>
-                <span>
-                  <span className="block text-sm font-semibold">{player.Player}</span>
-                  <span className="text-xs text-muted">
+                <span className="min-w-0">
+                  <span className="block truncate text-sm font-semibold">{player.Player}</span>
+                  <span className="block truncate text-xs text-muted">
                     <Link to={`/teams?team=${standings.find((team) => team.team === player.Team)?.team_slug || ""}`} className="hover:text-teal">{player.Team}</Link>, {player.position_label}, per 90: {number(player[activeTopTab.per90], 2)}
                   </span>
                 </span>

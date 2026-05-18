@@ -20,7 +20,7 @@ export default function LineChart({ series, xKey = "x", yKey = "y", height = 320
   const xTicks = x.ticks(6);
   const yTicks = y.ticks(5);
   return (
-    <div ref={ref} className="relative w-full overflow-visible">
+    <div ref={ref} className="relative w-full overflow-hidden">
       <svg width={width} height={h} role="img" aria-label="Line chart" onMouseLeave={() => setTooltip(null)}>
         {yTicks.map((tick) => (
           <g key={tick}>

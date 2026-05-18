@@ -13,7 +13,7 @@ export default function PitchViz({ formation = "4-3-3", players = [] }) {
   const sx = (x) => (x / 100) * width;
   const sy = (y) => (y / 100) * height;
   return (
-    <div ref={ref} className="relative w-full overflow-visible border border-border bg-pitch">
+    <div ref={ref} className="relative w-full overflow-hidden border border-border bg-pitch">
       <svg width={width} height={height} role="img" aria-label="Formation pitch" onMouseLeave={() => setTooltip(null)}>
         <rect x="12" y="12" width={width - 24} height={height - 24} fill="#F4F4F4" stroke="#C6C6C6" strokeWidth="2" />
         <line x1={width / 2} x2={width / 2} y1="12" y2={height - 12} stroke="#C6C6C6" />

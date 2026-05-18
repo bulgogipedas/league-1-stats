@@ -75,8 +75,8 @@ function FormationContent() {
         </Card>
       </div>
       <Card title="Formation outcome analysis" kicker="Results by tactical shape" className="mt-4">
-        <div className="overflow-x-auto">
-          <table className="w-full min-w-[760px] text-sm">
+        <div className="-mx-4 overflow-x-auto px-4 sm:mx-0 sm:px-0">
+          <table className="w-full min-w-[680px] text-sm sm:min-w-[760px]">
             <thead className="text-left text-sm text-muted"><tr>{["Formation", "Matches", "Wins", "Draws", "Loses", "Win rate", "GF", "GA", "Avg xG"].map((head) => <th key={head} className="px-3 py-2">{head}</th>)}</tr></thead>
             <tbody>
               {formationOutcomes.map((row) => (

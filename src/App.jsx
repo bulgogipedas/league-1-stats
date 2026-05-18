@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-bg text-text">
       <Navbar />
-      <main className="mx-auto w-full max-w-[1584px] px-4 pb-24 pt-20 sm:px-6 lg:px-8">
+      <main className="mx-auto w-full max-w-[1584px] min-w-0 px-3 pb-24 pt-16 sm:px-6 sm:pt-20 lg:px-8">
         <ErrorBoundary>
           <Outlet />
         </ErrorBoundary>

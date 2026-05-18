@@ -12,7 +12,7 @@ export default function GroupedBarChart({ data, keys, labelKey = "label", colors
   const x1 = d3.scaleBand().domain(keys).range([0, x0.bandwidth()]).padding(0.12);
   const y = d3.scaleLinear().domain([0, d3.max(data, (d) => d3.max(keys, (key) => Number(d[key] || 0))) || 1]).nice().range([height - margin.bottom, margin.top]);
   return (
-    <div ref={ref} className="relative w-full overflow-visible">
+    <div ref={ref} className="relative w-full overflow-hidden">
       <svg width={width} height={height} role="img" aria-label="Grouped bar chart" onMouseLeave={() => setTooltip(null)}>
         {y.ticks(5).map((tick) => (
           <g key={tick}>
