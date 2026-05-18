@@ -1,0 +1,186 @@
+[
+  {
+    "Metric": "Possession %",
+    "Team": "53.6%",
+    "League Avg": "50.0%",
+    "Rank": "5 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Poss % (Neutral / Draw)",
+    "Team": "53.7%",
+    "League Avg": "50.5%",
+    "Rank": "6 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Poss % (Home)",
+    "Team": "55.1%",
+    "League Avg": "51.5%",
+    "Rank": "5 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Poss % (Away)",
+    "Team": "52.2%",
+    "League Avg": "48.6%",
+    "Rank": "6 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Pass Accuracy %",
+    "Team": "84.5%",
+    "League Avg": "81.5%",
+    "Rank": "4 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Direct Play %",
+    "Team": "10.6%",
+    "League Avg": "12.1%",
+    "Rank": "15 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Direct % (When Losing)",
+    "Team": "10.4%",
+    "League Avg": "11.9%",
+    "Rank": "15 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Territory %",
+    "Team": "46.1%",
+    "League Avg": "52.4%",
+    "Rank": "17 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Avg Shots",
+    "Team": "14.000",
+    "League Avg": "12.346",
+    "Rank": "4 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Avg xG",
+    "Team": "1.875",
+    "League Avg": "1.434",
+    "Rank": "2 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "xG per Shot",
+    "Team": "0.135",
+    "League Avg": "0.115",
+    "Rank": "2 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Key Passes / Shot",
+    "Team": "0.637",
+    "League Avg": "0.627",
+    "Rank": "9 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Cross / Shot",
+    "Team": "1.318",
+    "League Avg": "1.282",
+    "Rank": "7 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Shot Dominance",
+    "Team": "1.223",
+    "League Avg": "1.330",
+    "Rank": "7 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "xG Dominance",
+    "Team": "1.680",
+    "League Avg": "2.099",
+    "Rank": "8 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Proactive Defense %",
+    "Team": "18.0%",
+    "League Avg": "16.7%",
+    "Rank": "4 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Step-Out Ratio %",
+    "Team": "12.7%",
+    "League Avg": "18.2%",
+    "Rank": "17 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Def. Actions / Opp. Shot",
+    "Team": "2.612",
+    "League Avg": "3.150",
+    "Rank": "16 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Aerial Tendency %",
+    "Team": "16.3%",
+    "League Avg": "16.8%",
+    "Rank": "12 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Aerial Win Rate %",
+    "Team": "48.1%",
+    "League Avg": "46.3%",
+    "Rank": "5 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Duels per Match",
+    "Team": "132.194",
+    "League Avg": "137.085",
+    "Rank": "14 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Shots (Winning)",
+    "Team": "14.174",
+    "League Avg": "13.326",
+    "Rank": "6 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  },
+  {
+    "Metric": "Shots (Losing)",
+    "Team": "13.600",
+    "League Avg": "11.311",
+    "Rank": "2 / 18",
+    "team": "Borneo FC",
+    "team_slug": "borneo"
+  }
+]

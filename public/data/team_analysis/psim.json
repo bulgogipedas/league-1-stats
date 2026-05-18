@@ -1,0 +1,186 @@
+[
+  {
+    "Metric": "Possession %",
+    "Team": "58.7%",
+    "League Avg": "50.0%",
+    "Rank": "2 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Poss % (Neutral / Draw)",
+    "Team": "55.8%",
+    "League Avg": "50.5%",
+    "Rank": "4 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Poss % (Home)",
+    "Team": "62.1%",
+    "League Avg": "51.5%",
+    "Rank": "2 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Poss % (Away)",
+    "Team": "55.3%",
+    "League Avg": "48.6%",
+    "Rank": "4 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Pass Accuracy %",
+    "Team": "84.8%",
+    "League Avg": "81.5%",
+    "Rank": "3 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Direct Play %",
+    "Team": "10.2%",
+    "League Avg": "12.1%",
+    "Rank": "16 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Direct % (When Losing)",
+    "Team": "8.2%",
+    "League Avg": "11.9%",
+    "Rank": "18 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Territory %",
+    "Team": "54.7%",
+    "League Avg": "52.4%",
+    "Rank": "5 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Avg Shots",
+    "Team": "13.188",
+    "League Avg": "12.346",
+    "Rank": "6 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Avg xG",
+    "Team": "1.161",
+    "League Avg": "1.434",
+    "Rank": "16 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "xG per Shot",
+    "Team": "0.089",
+    "League Avg": "0.115",
+    "Rank": "17 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Key Passes / Shot",
+    "Team": "0.673",
+    "League Avg": "0.627",
+    "Rank": "2 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Cross / Shot",
+    "Team": "1.147",
+    "League Avg": "1.282",
+    "Rank": "15 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Shot Dominance",
+    "Team": "1.346",
+    "League Avg": "1.330",
+    "Rank": "4 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "xG Dominance",
+    "Team": "1.292",
+    "League Avg": "2.099",
+    "Rank": "13 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Proactive Defense %",
+    "Team": "16.3%",
+    "League Avg": "16.7%",
+    "Rank": "8 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Step-Out Ratio %",
+    "Team": "21.3%",
+    "League Avg": "18.2%",
+    "Rank": "4 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Def. Actions / Opp. Shot",
+    "Team": "2.673",
+    "League Avg": "3.150",
+    "Rank": "15 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Aerial Tendency %",
+    "Team": "16.2%",
+    "League Avg": "16.8%",
+    "Rank": "14 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Aerial Win Rate %",
+    "Team": "39.4%",
+    "League Avg": "46.3%",
+    "Rank": "18 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Duels per Match",
+    "Team": "126.656",
+    "League Avg": "137.085",
+    "Rank": "17 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Shots (Winning)",
+    "Team": "13.900",
+    "League Avg": "13.326",
+    "Rank": "7 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  },
+  {
+    "Metric": "Shots (Losing)",
+    "Team": "14.111",
+    "League Avg": "11.311",
+    "Rank": "1 / 18",
+    "team": "PSIM Yogyakarta",
+    "team_slug": "psim"
+  }
+]

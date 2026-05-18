@@ -1,0 +1,186 @@
+[
+  {
+    "Metric": "Possession %",
+    "Team": "51.0%",
+    "League Avg": "50.0%",
+    "Rank": "8 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Poss % (Neutral / Draw)",
+    "Team": "51.2%",
+    "League Avg": "50.5%",
+    "Rank": "8 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Poss % (Home)",
+    "Team": "53.2%",
+    "League Avg": "51.5%",
+    "Rank": "7 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Poss % (Away)",
+    "Team": "48.8%",
+    "League Avg": "48.6%",
+    "Rank": "8 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Pass Accuracy %",
+    "Team": "82.9%",
+    "League Avg": "81.5%",
+    "Rank": "6 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Direct Play %",
+    "Team": "12.1%",
+    "League Avg": "12.1%",
+    "Rank": "9 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Direct % (When Losing)",
+    "Team": "12.9%",
+    "League Avg": "11.9%",
+    "Rank": "5 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Territory %",
+    "Team": "52.1%",
+    "League Avg": "52.4%",
+    "Rank": "11 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Avg Shots",
+    "Team": "14.233",
+    "League Avg": "12.346",
+    "Rank": "3 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Avg xG",
+    "Team": "1.652",
+    "League Avg": "1.434",
+    "Rank": "4 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "xG per Shot",
+    "Team": "0.111",
+    "League Avg": "0.115",
+    "Rank": "12 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Key Passes / Shot",
+    "Team": "0.614",
+    "League Avg": "0.627",
+    "Rank": "11 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Cross / Shot",
+    "Team": "1.127",
+    "League Avg": "1.282",
+    "Rank": "17 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Shot Dominance",
+    "Team": "1.558",
+    "League Avg": "1.330",
+    "Rank": "3 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "xG Dominance",
+    "Team": "1.979",
+    "League Avg": "2.099",
+    "Rank": "5 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Proactive Defense %",
+    "Team": "19.0%",
+    "League Avg": "16.7%",
+    "Rank": "2 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Step-Out Ratio %",
+    "Team": "18.6%",
+    "League Avg": "18.2%",
+    "Rank": "8 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Def. Actions / Opp. Shot",
+    "Team": "3.313",
+    "League Avg": "3.150",
+    "Rank": "5 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Aerial Tendency %",
+    "Team": "16.8%",
+    "League Avg": "16.8%",
+    "Rank": "9 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Aerial Win Rate %",
+    "Team": "47.5%",
+    "League Avg": "46.3%",
+    "Rank": "7 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Duels per Match",
+    "Team": "129.267",
+    "League Avg": "137.085",
+    "Rank": "15 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Shots (Winning)",
+    "Team": "16.214",
+    "League Avg": "13.326",
+    "Rank": "3 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  },
+  {
+    "Metric": "Shots (Losing)",
+    "Team": "12.700",
+    "League Avg": "11.311",
+    "Rank": "4 / 18",
+    "team": "Malut United",
+    "team_slug": "malut"
+  }
+]

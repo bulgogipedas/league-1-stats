@@ -1,0 +1,186 @@
+[
+  {
+    "Metric": "Possession %",
+    "Team": "55.0%",
+    "League Avg": "50.0%",
+    "Rank": "4 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Poss % (Neutral / Draw)",
+    "Team": "57.4%",
+    "League Avg": "50.5%",
+    "Rank": "2 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Poss % (Home)",
+    "Team": "56.6%",
+    "League Avg": "51.5%",
+    "Rank": "4 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Poss % (Away)",
+    "Team": "53.4%",
+    "League Avg": "48.6%",
+    "Rank": "5 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Pass Accuracy %",
+    "Team": "82.1%",
+    "League Avg": "81.5%",
+    "Rank": "7 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Direct Play %",
+    "Team": "11.6%",
+    "League Avg": "12.1%",
+    "Rank": "12 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Direct % (When Losing)",
+    "Team": "10.6%",
+    "League Avg": "11.9%",
+    "Rank": "14 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Territory %",
+    "Team": "51.5%",
+    "League Avg": "52.4%",
+    "Rank": "14 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Avg Shots",
+    "Team": "11.419",
+    "League Avg": "12.346",
+    "Rank": "12 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Avg xG",
+    "Team": "1.457",
+    "League Avg": "1.434",
+    "Rank": "8 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "xG per Shot",
+    "Team": "0.128",
+    "League Avg": "0.115",
+    "Rank": "5 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Key Passes / Shot",
+    "Team": "0.601",
+    "League Avg": "0.627",
+    "Rank": "14 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Cross / Shot",
+    "Team": "1.491",
+    "League Avg": "1.282",
+    "Rank": "3 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Shot Dominance",
+    "Team": "1.133",
+    "League Avg": "1.330",
+    "Rank": "11 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "xG Dominance",
+    "Team": "1.629",
+    "League Avg": "2.099",
+    "Rank": "9 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Proactive Defense %",
+    "Team": "15.7%",
+    "League Avg": "16.7%",
+    "Rank": "15 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Step-Out Ratio %",
+    "Team": "18.3%",
+    "League Avg": "18.2%",
+    "Rank": "9 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Def. Actions / Opp. Shot",
+    "Team": "3.185",
+    "League Avg": "3.150",
+    "Rank": "6 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Aerial Tendency %",
+    "Team": "18.2%",
+    "League Avg": "16.8%",
+    "Rank": "2 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Aerial Win Rate %",
+    "Team": "49.2%",
+    "League Avg": "46.3%",
+    "Rank": "3 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Duels per Match",
+    "Team": "142.452",
+    "League Avg": "137.085",
+    "Rank": "4 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Shots (Winning)",
+    "Team": "11.636",
+    "League Avg": "13.326",
+    "Rank": "12 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  },
+  {
+    "Metric": "Shots (Losing)",
+    "Team": "11.714",
+    "League Avg": "11.311",
+    "Rank": "10 / 18",
+    "team": "Persik Kediri",
+    "team_slug": "persik"
+  }
+]

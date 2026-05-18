@@ -1,0 +1,186 @@
+[
+  {
+    "Metric": "Possession %",
+    "Team": "53.4%",
+    "League Avg": "50.0%",
+    "Rank": "6 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Poss % (Neutral / Draw)",
+    "Team": "56.1%",
+    "League Avg": "50.5%",
+    "Rank": "3 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Poss % (Home)",
+    "Team": "50.9%",
+    "League Avg": "51.5%",
+    "Rank": "9 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Poss % (Away)",
+    "Team": "55.9%",
+    "League Avg": "48.6%",
+    "Rank": "3 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Pass Accuracy %",
+    "Team": "82.9%",
+    "League Avg": "81.5%",
+    "Rank": "5 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Direct Play %",
+    "Team": "11.4%",
+    "League Avg": "12.1%",
+    "Rank": "14 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Direct % (When Losing)",
+    "Team": "12.0%",
+    "League Avg": "11.9%",
+    "Rank": "9 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Territory %",
+    "Team": "52.9%",
+    "League Avg": "52.4%",
+    "Rank": "6 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Avg Shots",
+    "Team": "14.969",
+    "League Avg": "12.346",
+    "Rank": "2 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Avg xG",
+    "Team": "1.992",
+    "League Avg": "1.434",
+    "Rank": "1 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "xG per Shot",
+    "Team": "0.135",
+    "League Avg": "0.115",
+    "Rank": "1 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Key Passes / Shot",
+    "Team": "0.641",
+    "League Avg": "0.627",
+    "Rank": "6 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Cross / Shot",
+    "Team": "1.208",
+    "League Avg": "1.282",
+    "Rank": "12 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Shot Dominance",
+    "Team": "2.503",
+    "League Avg": "1.330",
+    "Rank": "2 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "xG Dominance",
+    "Team": "7.167",
+    "League Avg": "2.099",
+    "Rank": "1 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Proactive Defense %",
+    "Team": "15.8%",
+    "League Avg": "16.7%",
+    "Rank": "13 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Step-Out Ratio %",
+    "Team": "17.8%",
+    "League Avg": "18.2%",
+    "Rank": "10 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Def. Actions / Opp. Shot",
+    "Team": "4.987",
+    "League Avg": "3.150",
+    "Rank": "1 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Aerial Tendency %",
+    "Team": "17.3%",
+    "League Avg": "16.8%",
+    "Rank": "7 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Aerial Win Rate %",
+    "Team": "53.4%",
+    "League Avg": "46.3%",
+    "Rank": "1 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Duels per Match",
+    "Team": "135.469",
+    "League Avg": "137.085",
+    "Rank": "12 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Shots (Winning)",
+    "Team": "15.636",
+    "League Avg": "13.326",
+    "Rank": "4 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  },
+  {
+    "Metric": "Shots (Losing)",
+    "Team": "7.500",
+    "League Avg": "11.311",
+    "Rank": "18 / 18",
+    "team": "Persib Bandung",
+    "team_slug": "persib"
+  }
+]

@@ -1,0 +1,33 @@
+﻿Date,Round,Match,Score,Venue,Opponent,Result,Avg Rating,Passes,Acc. Passes,Long Balls,Acc. Long Balls,Assists,Own Half Passes,Acc. Own Half Passes,Opp Half Passes,Acc. Opp Half Passes,Crosses,Acc. Crosses,Key Passes,Aerial Duels Lost,Aerial Duels Won,Duels Lost,Duels Won,Challenges Lost,Contests,Contests Won,Shots,Shots on Target,Shots off Target,Shots Blocked,Goals,Hit Woodwork,Big Chances Missed,xG,Clearances,Blocked Shots,Interceptions,Ball Recoveries,Tackles,Tackles Won,Errors → Shot,Dispossessed,Fouls Drawn,Fouls Committed,Offsides,Pen. Conceded,Pen. Won,Own Goals,Crosses Not Claimed,High Claims,Saves (Box),Saves,Sweeper Actions,Acc. Sweeper Actions,Touches,Unsuccessful Touches,Possession Lost
+2025-08-08,1,Borneo FC Samarinda vs Bhayangkara Presisi FC,1 - 0,Home,Bhayangkara ,W,7.4,220,182,32,16,0,130,118,86,61,8,2,2,7,3,15,11,0,2,2,2,1,1,,0,,,0.07,17,3,4,26,0,0,1,,5,3,0,,,0,,,,,,,263,1,52
+2025-08-18,2,Borneo FC Samarinda vs PSBS Biak,1 - 0,Away,PSBS,W,7.06,216,191,23,10,0,125,122,84,63,11,4,3,4,7,20,15,1,2,1,0,0,,,0,,,0,3,1,9,33,1,0,1,,4,4,0,,,0,,,,,,,244,1,30
+2025-08-24,3,Borneo FC Samarinda vs Persijap Jepara,3 - 1,Home,Persijap,W,7,169,135,34,16,0,89,80,71,47,9,3,3,5,6,28,12,5,4,2,5,2,3,,0,,,0.47,12,2,11,32,0,0,1,,1,2,0,,,0,,,,,,,213,0,40
+2025-12-05,4,Borneo FC Samarinda vs Persib Bandung,1 - 3,Away,Persib,L,6.78,155,118,15,2,0,78,67,68,45,8,2,3,7,5,29,12,8,3,3,2,1,1,,0,,,0.21,14,3,8,33,0,0,1,,0,0,1,,,0,,,,,,,196,2,45
+2025-09-14,5,Borneo FC Samarinda vs PSIM Yogyakarta,3 - 1,Away,PSIM,W,6.78,141,116,28,17,0,88,76,42,31,2,1,1,6,3,28,15,3,1,1,2,0,2,,0,,,0.06,8,5,10,31,0,0,1,,1,3,0,,,0,,,,,,,183,1,34
+2025-09-22,6,Borneo FC Samarinda vs Persis Solo,1 - 0,Home,Persis,W,7.38,211,176,19,12,0,84,76,118,94,20,11,7,9,6,20,16,3,6,6,5,1,2,2,0,,,0.1,2,2,7,52,2,2,1,,2,2,0,,,0,,,,,,,263,0,39
+2025-09-28,7,Borneo FC Samarinda vs Persija Jakarta,3 - 1,Home,Persija,W,6.74,111,92,19,6,1,82,74,28,17,3,2,1,10,6,23,11,4,0,0,1,0,,1,0,,,0,25,2,7,29,3,2,1,1,1,0,0,,,0,,,,,,,145,0,31
+2025-12-28,8,Borneo FC Samarinda vs Malut United FC,2 - 3,Away,Malut Utd,L,6.675,162,138,27,17,0,113,110,38,25,4,1,,8,5,20,10,5,1,1,0,0,,,0,,,0,4,7,5,28,1,0,0,,1,3,0,,,0,,,,,,,197,1,27
+2025-10-18,9,Borneo FC Samarinda vs Persik Kediri,2 - 0,Home,Persik,W,,,,,,0,,,,,,,,,,,,,,,0,,,,0,,,,,,,,,,,,,,,,,0,,,,,,,,,
+2025-10-26,10,Borneo FC Samarinda vs Arema FC,3 - 1,Away,Arema,W,6.866666666666667,188,174,20,13,0,111,109,67,55,6,1,3,8,9,29,21,4,8,6,1,0,1,,0,,,0,16,0,14,42,1,0,0,,0,1,1,,,0,,,,,,,243,4,31
+2025-11-05,11,Borneo FC Samarinda vs Dewa United FC,4 - 0,Home,Dewa Utd,W,7.2,129,110,27,16,0,88,78,32,24,3,0,1,6,5,15,8,3,0,0,6,1,3,2,1,2,,0.66,15,1,13,31,0,0,0,,0,2,0,,,0,,,,,,,170,0,24
+2025-11-09,12,Borneo FC Samarinda vs Semen Padang FC,2 - 0,Away,Semen Padang,W,6.92,284,253,13,5,0,208,199,69,49,9,1,1,1,3,18,10,4,1,1,1,1,,,0,,1,0.41,9,3,9,30,0,0,2,1,0,2,1,,,0,,,,,,,332,0,37
+2025-11-22,13,Borneo FC Samarinda vs Madura United FC,1 - 0,Home,Madura Utd,W,6.94,207,179,13,9,0,102,96,103,82,12,3,4,7,6,25,17,6,4,4,0,0,,,0,,,0,6,1,2,30,1,0,1,1,2,3,0,,,0,,,,,,,276,1,26
+2025-11-30,14,Borneo FC Samarinda vs Bali United FC,0 - 1,Home,Bali Utd,L,6.85,193,168,20,9,0,78,68,103,92,5,0,4,3,6,16,10,5,2,2,3,2,1,,0,,,0.09,3,1,8,35,2,1,0,,3,0,0,,,0,,,,,,,238,3,23
+2025-12-20,15,Borneo FC Samarinda vs Persebaya Surabaya,2 - 2,Away,Persebaya,D,6.62,169,144,26,15,1,96,92,64,44,8,2,3,9,6,25,16,4,3,3,0,0,,,0,,,0,11,0,12,39,1,0,3,1,1,3,0,,,0,,,,,,,203,1,37
+2026-01-03,16,Borneo FC Samarinda vs PSM Makassar,2 - 1,Home,PSM,W,6.925,185,155,19,11,1,85,78,88,70,7,1,2,7,4,27,16,7,3,1,1,1,,,0,,,0.07,10,2,11,45,5,2,0,1,3,2,0,,,0,,,,,,,228,1,42
+2026-01-09,17,Borneo FC Samarinda vs Persita Tangerang,0 - 2,Away,Persita,L,6.533333333333333,202,180,16,9,0,125,118,72,58,9,8,5,12,12,30,18,7,3,3,0,0,,,0,,,0,11,1,6,39,2,0,0,,3,4,0,1,,0,,,,,,,243,3,31
+2026-01-23,18,Borneo FC Samarinda vs Persis Solo,1 - 0,Away,Persis,W,7.033333333333333,230,191,29,13,1,161,146,53,37,3,0,1,5,6,26,16,5,3,3,2,1,1,,0,,,0.09,9,2,13,51,1,1,1,,2,2,0,,,0,,,,,,,280,0,47
+2026-02-01,19,Borneo FC Samarinda vs PSIM Yogyakarta,2 - 1,Home,PSIM,W,6.925,158,135,25,14,1,97,86,56,45,1,0,4,2,3,20,6,7,1,1,3,0,2,1,0,1,,0.28,12,2,8,24,2,1,0,1,0,0,1,,,0,,,,,,,201,1,37
+2026-02-07,20,Borneo FC Samarinda vs Bhayangkara Presisi FC,2 - 1,Away,Bhayangkara ,W,7.1,248,225,30,15,1,182,173,59,47,3,3,2,4,13,21,20,3,3,2,1,1,,,1,,,0.17,23,2,9,40,2,1,1,,0,6,0,,,0,,,,,,,295,1,47
+2026-03-15,21,Borneo FC Samarinda vs Persib Bandung,1 - 1,Home,Persib,D,6.75,218,199,24,8,0,119,115,93,78,3,3,4,4,4,23,12,6,3,2,3,0,2,1,0,,,0.27,10,1,10,32,0,0,0,2,1,2,0,,,0,,,,,,,271,0,31
+2026-02-22,22,Borneo FC Samarinda vs Dewa United FC,1 - 2,Away,Dewa Utd,L,6.76,221,195,19,6,0,154,148,60,42,7,6,3,6,3,22,9,5,4,3,4,2,1,1,1,,,0.61,7,3,6,22,0,0,2,,1,2,0,,,0,,,,,,,264,3,33
+2026-02-26,23,Borneo FC Samarinda vs Arema FC,3 - 1,Home,Arema,W,6.96,161,132,26,13,0,113,102,39,24,5,0,,6,5,26,10,8,1,1,2,1,1,,1,,,0.1,22,3,12,31,1,1,0,,1,1,0,,,0,,,,,,,205,2,36
+2026-03-03,24,Borneo FC Samarinda vs Persija Jakarta,2 - 2,Away,Persija,D,6.375,144,120,28,12,0,92,89,45,28,6,2,1,11,4,42,13,7,5,3,2,0,1,1,0,,,0.02,16,2,6,31,0,0,1,,1,4,0,,,0,,,,,,,178,3,40
+2026-03-07,25,Borneo FC Samarinda vs Persebaya Surabaya,5 - 1,Home,Persebaya,W,6.88,244,212,26,12,1,162,151,79,59,7,3,1,2,8,10,18,0,7,6,5,1,4,,0,,,0.19,10,1,4,27,1,1,3,1,1,0,1,,,0,,,,,,,292,1,39
+2026-04-05,26,Borneo FC Samarinda vs Madura United FC,3 - 1,Away,Madura Utd,W,6.88,188,170,17,10,0,114,107,70,59,5,1,2,8,12,17,15,0,2,1,2,0,2,,0,,,0.03,24,5,8,27,2,2,4,,0,0,0,,,1,,,,,,,251,7,38
+2026-04-11,27,Borneo FC Samarinda vs PSBS Biak,5 - 1,Home,PSBS,W,7.02,198,178,15,8,0,81,73,111,101,16,10,4,5,1,20,4,1,0,0,1,1,,,1,,,0.77,4,2,4,25,1,1,0,,0,2,0,,,0,,,,,,,245,1,15
+2026-04-18,28,Borneo FC Samarinda vs PSM Makassar,2 - 1,Away,PSM,W,6.75,219,197,11,7,0,138,136,68,54,6,4,2,4,6,23,10,4,2,0,1,0,,1,0,,,0.01,6,2,5,33,0,0,0,,2,3,1,,,0,,,,,,,259,2,26
+2026-04-25,29,Borneo FC Samarinda vs Semen Padang FC,3 - 0,Home,Semen Padang,W,7.033333333333333,221,199,17,8,1,124,117,94,80,6,2,3,2,7,19,9,3,1,0,4,1,2,1,1,,,0.7,4,3,7,28,0,0,2,1,0,0,0,,,0,,,,,,,264,3,26
+2026-04-29,30,Borneo FC Samarinda vs Persik Kediri,1 - 0,Away,Persik,W,6.9,178,146,33,17,0,120,99,47,39,2,1,2,8,5,20,9,4,2,1,1,1,,,0,,,0.06,22,2,15,32,0,0,4,,1,1,0,,,0,,,,,,,211,1,38
+2026-05-05,31,Borneo FC Samarinda vs Persita Tangerang,2 - 0,Home,Persita,W,7.26,246,226,19,12,0,155,149,89,75,8,3,,4,5,12,10,2,2,2,2,1,1,,1,,,0.29,6,2,4,29,0,0,0,,4,0,0,,,0,,,,,,,283,1,29
+2026-05-11,32,Borneo FC Samarinda vs Bali United FC,3 - 2,Away,Bali Utd,W,6.58,210,184,25,14,0,131,126,75,55,3,2,1,6,6,25,16,5,3,3,1,0,1,,0,,,0.14,17,2,6,30,2,0,2,,0,1,0,,,1,,,,,,,246,0,33

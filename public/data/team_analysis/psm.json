@@ -1,0 +1,186 @@
+[
+  {
+    "Metric": "Possession %",
+    "Team": "44.7%",
+    "League Avg": "50.0%",
+    "Rank": "16 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Poss % (Neutral / Draw)",
+    "Team": "43.3%",
+    "League Avg": "50.5%",
+    "Rank": "18 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Poss % (Home)",
+    "Team": "42.8%",
+    "League Avg": "51.5%",
+    "Rank": "18 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Poss % (Away)",
+    "Team": "46.8%",
+    "League Avg": "48.6%",
+    "Rank": "10 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Pass Accuracy %",
+    "Team": "78.3%",
+    "League Avg": "81.5%",
+    "Rank": "16 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Direct Play %",
+    "Team": "13.7%",
+    "League Avg": "12.1%",
+    "Rank": "3 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Direct % (When Losing)",
+    "Team": "11.9%",
+    "League Avg": "11.9%",
+    "Rank": "10 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Territory %",
+    "Team": "58.5%",
+    "League Avg": "52.4%",
+    "Rank": "2 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Avg Shots",
+    "Team": "11.742",
+    "League Avg": "12.346",
+    "Rank": "11 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Avg xG",
+    "Team": "1.232",
+    "League Avg": "1.434",
+    "Rank": "15 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "xG per Shot",
+    "Team": "0.108",
+    "League Avg": "0.115",
+    "Rank": "14 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Key Passes / Shot",
+    "Team": "0.629",
+    "League Avg": "0.627",
+    "Rank": "10 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Cross / Shot",
+    "Team": "1.335",
+    "League Avg": "1.282",
+    "Rank": "5 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Shot Dominance",
+    "Team": "1.191",
+    "League Avg": "1.330",
+    "Rank": "10 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "xG Dominance",
+    "Team": "1.284",
+    "League Avg": "2.099",
+    "Rank": "14 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Proactive Defense %",
+    "Team": "15.1%",
+    "League Avg": "16.7%",
+    "Rank": "17 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Step-Out Ratio %",
+    "Team": "17.0%",
+    "League Avg": "18.2%",
+    "Rank": "12 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Def. Actions / Opp. Shot",
+    "Team": "3.035",
+    "League Avg": "3.150",
+    "Rank": "8 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Aerial Tendency %",
+    "Team": "17.8%",
+    "League Avg": "16.8%",
+    "Rank": "3 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Aerial Win Rate %",
+    "Team": "46.1%",
+    "League Avg": "46.3%",
+    "Rank": "10 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Duels per Match",
+    "Team": "142.226",
+    "League Avg": "137.085",
+    "Rank": "5 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Shots (Winning)",
+    "Team": "11.625",
+    "League Avg": "13.326",
+    "Rank": "13 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  },
+  {
+    "Metric": "Shots (Losing)",
+    "Team": "11.929",
+    "League Avg": "11.311",
+    "Rank": "8 / 18",
+    "team": "PSM Makassar",
+    "team_slug": "psm"
+  }
+]

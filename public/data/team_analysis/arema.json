@@ -1,0 +1,186 @@
+[
+  {
+    "Metric": "Possession %",
+    "Team": "49.0%",
+    "League Avg": "50.0%",
+    "Rank": "9 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Poss % (Neutral / Draw)",
+    "Team": "45.6%",
+    "League Avg": "50.5%",
+    "Rank": "14 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Poss % (Home)",
+    "Team": "51.8%",
+    "League Avg": "51.5%",
+    "Rank": "8 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Poss % (Away)",
+    "Team": "46.3%",
+    "League Avg": "48.6%",
+    "Rank": "12 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Pass Accuracy %",
+    "Team": "80.7%",
+    "League Avg": "81.5%",
+    "Rank": "13 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Direct Play %",
+    "Team": "11.7%",
+    "League Avg": "12.1%",
+    "Rank": "11 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Direct % (When Losing)",
+    "Team": "11.6%",
+    "League Avg": "11.9%",
+    "Rank": "12 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Territory %",
+    "Team": "52.2%",
+    "League Avg": "52.4%",
+    "Rank": "10 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Avg Shots",
+    "Team": "11.750",
+    "League Avg": "12.346",
+    "Rank": "10 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Avg xG",
+    "Team": "1.352",
+    "League Avg": "1.434",
+    "Rank": "10 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "xG per Shot",
+    "Team": "0.112",
+    "League Avg": "0.115",
+    "Rank": "11 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Key Passes / Shot",
+    "Team": "0.601",
+    "League Avg": "0.627",
+    "Rank": "13 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Cross / Shot",
+    "Team": "1.210",
+    "League Avg": "1.282",
+    "Rank": "11 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Shot Dominance",
+    "Team": "1.088",
+    "League Avg": "1.330",
+    "Rank": "14 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "xG Dominance",
+    "Team": "1.757",
+    "League Avg": "2.099",
+    "Rank": "6 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Proactive Defense %",
+    "Team": "15.7%",
+    "League Avg": "16.7%",
+    "Rank": "16 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Step-Out Ratio %",
+    "Team": "22.2%",
+    "League Avg": "18.2%",
+    "Rank": "2 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Def. Actions / Opp. Shot",
+    "Team": "2.820",
+    "League Avg": "3.150",
+    "Rank": "13 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Aerial Tendency %",
+    "Team": "15.5%",
+    "League Avg": "16.8%",
+    "Rank": "17 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Aerial Win Rate %",
+    "Team": "48.1%",
+    "League Avg": "46.3%",
+    "Rank": "6 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Duels per Match",
+    "Team": "140.156",
+    "League Avg": "137.085",
+    "Rank": "6 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Shots (Winning)",
+    "Team": "11.545",
+    "League Avg": "13.326",
+    "Rank": "14 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  },
+  {
+    "Metric": "Shots (Losing)",
+    "Team": "12.750",
+    "League Avg": "11.311",
+    "Rank": "3 / 18",
+    "team": "Arema FC",
+    "team_slug": "arema"
+  }
+]

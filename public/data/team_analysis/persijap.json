@@ -1,0 +1,186 @@
+[
+  {
+    "Metric": "Possession %",
+    "Team": "44.7%",
+    "League Avg": "50.0%",
+    "Rank": "15 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Poss % (Neutral / Draw)",
+    "Team": "47.2%",
+    "League Avg": "50.5%",
+    "Rank": "11 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Poss % (Home)",
+    "Team": "44.6%",
+    "League Avg": "51.5%",
+    "Rank": "16 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Poss % (Away)",
+    "Team": "44.9%",
+    "League Avg": "48.6%",
+    "Rank": "13 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Pass Accuracy %",
+    "Team": "79.5%",
+    "League Avg": "81.5%",
+    "Rank": "15 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Direct Play %",
+    "Team": "13.5%",
+    "League Avg": "12.1%",
+    "Rank": "4 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Direct % (When Losing)",
+    "Team": "12.9%",
+    "League Avg": "11.9%",
+    "Rank": "6 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Territory %",
+    "Team": "52.4%",
+    "League Avg": "52.4%",
+    "Rank": "9 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Avg Shots",
+    "Team": "11.344",
+    "League Avg": "12.346",
+    "Rank": "13 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Avg xG",
+    "Team": "1.267",
+    "League Avg": "1.434",
+    "Rank": "13 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "xG per Shot",
+    "Team": "0.113",
+    "League Avg": "0.115",
+    "Rank": "10 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Key Passes / Shot",
+    "Team": "0.592",
+    "League Avg": "0.627",
+    "Rank": "16 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Cross / Shot",
+    "Team": "0.929",
+    "League Avg": "1.282",
+    "Rank": "18 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Shot Dominance",
+    "Team": "1.097",
+    "League Avg": "1.330",
+    "Rank": "13 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "xG Dominance",
+    "Team": "1.221",
+    "League Avg": "2.099",
+    "Rank": "16 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Proactive Defense %",
+    "Team": "16.5%",
+    "League Avg": "16.7%",
+    "Rank": "7 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Step-Out Ratio %",
+    "Team": "15.9%",
+    "League Avg": "18.2%",
+    "Rank": "16 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Def. Actions / Opp. Shot",
+    "Team": "3.462",
+    "League Avg": "3.150",
+    "Rank": "4 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Aerial Tendency %",
+    "Team": "17.1%",
+    "League Avg": "16.8%",
+    "Rank": "8 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Aerial Win Rate %",
+    "Team": "45.1%",
+    "League Avg": "46.3%",
+    "Rank": "13 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Duels per Match",
+    "Team": "147.438",
+    "League Avg": "137.085",
+    "Rank": "2 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Shots (Winning)",
+    "Team": "10.889",
+    "League Avg": "13.326",
+    "Rank": "17 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  },
+  {
+    "Metric": "Shots (Losing)",
+    "Team": "12.000",
+    "League Avg": "11.311",
+    "Rank": "7 / 18",
+    "team": "Persijap Jepara",
+    "team_slug": "persijap"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "name": "liga-1-analytics-dashboard",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "preprocess": "python3 preprocess.py",
+    "db:up": "podman compose -f infra/podman-compose.yml up -d",
+    "db:down": "podman compose -f infra/podman-compose.yml down",
+    "db:seed": "bun backend/seed.js",
+    "api:dev": "bun backend/server.js",
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "d3": "latest",
+    "lucide-react": "latest",
+    "pg": "^8.20.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "^6.30.1",
+    "recharts": "latest",
+    "zustand": "latest"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "^3.4.17",
+    "vite": "latest"
+  }
+}

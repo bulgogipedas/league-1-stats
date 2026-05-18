@@ -1,0 +1,186 @@
+[
+  {
+    "Metric": "Possession %",
+    "Team": "57.4%",
+    "League Avg": "50.0%",
+    "Rank": "3 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Poss % (Neutral / Draw)",
+    "Team": "54.9%",
+    "League Avg": "50.5%",
+    "Rank": "5 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Poss % (Home)",
+    "Team": "57.4%",
+    "League Avg": "51.5%",
+    "Rank": "3 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Poss % (Away)",
+    "Team": "57.5%",
+    "League Avg": "48.6%",
+    "Rank": "2 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Pass Accuracy %",
+    "Team": "85.3%",
+    "League Avg": "81.5%",
+    "Rank": "2 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Direct Play %",
+    "Team": "8.9%",
+    "League Avg": "12.1%",
+    "Rank": "17 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Direct % (When Losing)",
+    "Team": "9.6%",
+    "League Avg": "11.9%",
+    "Rank": "17 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Territory %",
+    "Team": "55.1%",
+    "League Avg": "52.4%",
+    "Rank": "4 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Avg Shots",
+    "Team": "11.968",
+    "League Avg": "12.346",
+    "Rank": "8 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Avg xG",
+    "Team": "1.525",
+    "League Avg": "1.434",
+    "Rank": "7 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "xG per Shot",
+    "Team": "0.124",
+    "League Avg": "0.115",
+    "Rank": "7 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Key Passes / Shot",
+    "Team": "0.663",
+    "League Avg": "0.627",
+    "Rank": "3 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Cross / Shot",
+    "Team": "1.523",
+    "League Avg": "1.282",
+    "Rank": "2 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Shot Dominance",
+    "Team": "1.240",
+    "League Avg": "1.330",
+    "Rank": "6 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "xG Dominance",
+    "Team": "2.236",
+    "League Avg": "2.099",
+    "Rank": "3 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Proactive Defense %",
+    "Team": "16.2%",
+    "League Avg": "16.7%",
+    "Rank": "10 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Step-Out Ratio %",
+    "Team": "16.7%",
+    "League Avg": "18.2%",
+    "Rank": "13 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Def. Actions / Opp. Shot",
+    "Team": "2.852",
+    "League Avg": "3.150",
+    "Rank": "12 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Aerial Tendency %",
+    "Team": "13.0%",
+    "League Avg": "16.8%",
+    "Rank": "18 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Aerial Win Rate %",
+    "Team": "45.9%",
+    "League Avg": "46.3%",
+    "Rank": "11 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Duels per Match",
+    "Team": "126.290",
+    "League Avg": "137.085",
+    "Rank": "18 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Shots (Winning)",
+    "Team": "12.688",
+    "League Avg": "13.326",
+    "Rank": "10 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  },
+  {
+    "Metric": "Shots (Losing)",
+    "Team": "12.182",
+    "League Avg": "11.311",
+    "Rank": "6 / 18",
+    "team": "Dewa United",
+    "team_slug": "dewa"
+  }
+]

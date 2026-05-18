@@ -1,0 +1,69 @@
+{
+  "total_goals": 790,
+  "total_matches": 290,
+  "average_goals_per_match": 2.72,
+  "most_prolific_team": {
+    "team": "Borneo FC",
+    "team_slug": "borneo",
+    "MP": 32,
+    "W": 24,
+    "D": 3,
+    "L": 5,
+    "GF": 67,
+    "GA": 30,
+    "Pts": 75,
+    "form": [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    "home_win_rate": 87.5,
+    "away_win_rate": 62.5,
+    "goals_per_match": 2.09,
+    "xg_per_match": 0.18,
+    "avg_rating": 6.68,
+    "GD": 37,
+    "Pos": 2,
+    "source": "official_standings"
+  },
+  "best_defense": {
+    "team": "Persib Bandung",
+    "team_slug": "persib",
+    "MP": 32,
+    "W": 23,
+    "D": 6,
+    "L": 3,
+    "GF": 57,
+    "GA": 21,
+    "Pts": 75,
+    "form": [
+      "D",
+      "D",
+      "D",
+      "W",
+      "W"
+    ],
+    "home_win_rate": 93.8,
+    "away_win_rate": 43.8,
+    "goals_per_match": 1.78,
+    "xg_per_match": 0.23,
+    "avg_rating": 6.88,
+    "GD": 36,
+    "Pos": 1,
+    "source": "official_standings"
+  },
+  "highest_single_match_xg": {
+    "team": "Persis Solo",
+    "opponent": "Madura Utd",
+    "round": "21",
+    "xG": 1.69
+  },
+  "source": {
+    "name": "Liga Indonesia Baru, BRI Super League 2025-26 standings",
+    "url": "https://www.ligaindonesiabaru.com/table/download/88/BRI%20SUPER%20LEAGUE%202025-26/1/0/",
+    "published": "2026-05-16",
+    "note": "Official downloadable standings snapshot found via public search. Match-level CSVs remain local source for per-match charts."
+  }
+}

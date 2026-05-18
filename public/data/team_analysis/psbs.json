@@ -1,0 +1,186 @@
+[
+  {
+    "Metric": "Possession %",
+    "Team": "42.0%",
+    "League Avg": "50.0%",
+    "Rank": "18 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Poss % (Neutral / Draw)",
+    "Team": "46.2%",
+    "League Avg": "50.5%",
+    "Rank": "13 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Poss % (Home)",
+    "Team": "44.4%",
+    "League Avg": "51.5%",
+    "Rank": "17 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Poss % (Away)",
+    "Team": "39.5%",
+    "League Avg": "48.6%",
+    "Rank": "18 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Pass Accuracy %",
+    "Team": "80.3%",
+    "League Avg": "81.5%",
+    "Rank": "14 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Direct Play %",
+    "Team": "12.3%",
+    "League Avg": "12.1%",
+    "Rank": "8 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Direct % (When Losing)",
+    "Team": "12.7%",
+    "League Avg": "11.9%",
+    "Rank": "7 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Territory %",
+    "Team": "46.1%",
+    "League Avg": "52.4%",
+    "Rank": "18 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Avg Shots",
+    "Team": "10.594",
+    "League Avg": "12.346",
+    "Rank": "17 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Avg xG",
+    "Team": "0.977",
+    "League Avg": "1.434",
+    "Rank": "18 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "xG per Shot",
+    "Team": "0.086",
+    "League Avg": "0.115",
+    "Rank": "18 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Key Passes / Shot",
+    "Team": "0.579",
+    "League Avg": "0.627",
+    "Rank": "17 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Cross / Shot",
+    "Team": "1.163",
+    "League Avg": "1.282",
+    "Rank": "14 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Shot Dominance",
+    "Team": "1.131",
+    "League Avg": "1.330",
+    "Rank": "12 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "xG Dominance",
+    "Team": "1.223",
+    "League Avg": "2.099",
+    "Rank": "15 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Proactive Defense %",
+    "Team": "20.3%",
+    "League Avg": "16.7%",
+    "Rank": "1 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Step-Out Ratio %",
+    "Team": "18.7%",
+    "League Avg": "18.2%",
+    "Rank": "7 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Def. Actions / Opp. Shot",
+    "Team": "2.583",
+    "League Avg": "3.150",
+    "Rank": "17 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Aerial Tendency %",
+    "Team": "15.7%",
+    "League Avg": "16.8%",
+    "Rank": "16 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Aerial Win Rate %",
+    "Team": "45.4%",
+    "League Avg": "46.3%",
+    "Rank": "12 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Duels per Match",
+    "Team": "138.500",
+    "League Avg": "137.085",
+    "Rank": "9 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Shots (Winning)",
+    "Team": "17.500",
+    "League Avg": "13.326",
+    "Rank": "2 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  },
+  {
+    "Metric": "Shots (Losing)",
+    "Team": "8.591",
+    "League Avg": "11.311",
+    "Rank": "17 / 18",
+    "team": "PSBS Biak",
+    "team_slug": "psbs"
+  }
+]

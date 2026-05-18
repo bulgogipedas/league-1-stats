@@ -1,0 +1,186 @@
+[
+  {
+    "Metric": "Possession %",
+    "Team": "51.6%",
+    "League Avg": "50.0%",
+    "Rank": "7 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Poss % (Neutral / Draw)",
+    "Team": "50.1%",
+    "League Avg": "50.5%",
+    "Rank": "9 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Poss % (Home)",
+    "Team": "53.4%",
+    "League Avg": "51.5%",
+    "Rank": "6 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Poss % (Away)",
+    "Team": "49.7%",
+    "League Avg": "48.6%",
+    "Rank": "7 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Pass Accuracy %",
+    "Team": "80.9%",
+    "League Avg": "81.5%",
+    "Rank": "11 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Direct Play %",
+    "Team": "12.5%",
+    "League Avg": "12.1%",
+    "Rank": "7 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Direct % (When Losing)",
+    "Team": "11.7%",
+    "League Avg": "11.9%",
+    "Rank": "11 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Territory %",
+    "Team": "52.8%",
+    "League Avg": "52.4%",
+    "Rank": "7 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Avg Shots",
+    "Team": "13.562",
+    "League Avg": "12.346",
+    "Rank": "5 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Avg xG",
+    "Team": "1.577",
+    "League Avg": "1.434",
+    "Rank": "5 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "xG per Shot",
+    "Team": "0.113",
+    "League Avg": "0.115",
+    "Rank": "9 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Key Passes / Shot",
+    "Team": "0.657",
+    "League Avg": "0.627",
+    "Rank": "4 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Cross / Shot",
+    "Team": "1.232",
+    "League Avg": "1.282",
+    "Rank": "10 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Shot Dominance",
+    "Team": "1.269",
+    "League Avg": "1.330",
+    "Rank": "5 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "xG Dominance",
+    "Team": "2.021",
+    "League Avg": "2.099",
+    "Rank": "4 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Proactive Defense %",
+    "Team": "17.2%",
+    "League Avg": "16.7%",
+    "Rank": "5 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Step-Out Ratio %",
+    "Team": "24.9%",
+    "League Avg": "18.2%",
+    "Rank": "1 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Def. Actions / Opp. Shot",
+    "Team": "3.111",
+    "League Avg": "3.150",
+    "Rank": "7 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Aerial Tendency %",
+    "Team": "16.1%",
+    "League Avg": "16.8%",
+    "Rank": "15 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Aerial Win Rate %",
+    "Team": "42.5%",
+    "League Avg": "46.3%",
+    "Rank": "16 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Duels per Match",
+    "Team": "128.844",
+    "League Avg": "137.085",
+    "Rank": "16 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Shots (Winning)",
+    "Team": "14.833",
+    "League Avg": "13.326",
+    "Rank": "5 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  },
+  {
+    "Metric": "Shots (Losing)",
+    "Team": "12.273",
+    "League Avg": "11.311",
+    "Rank": "5 / 18",
+    "team": "Bali United",
+    "team_slug": "bali"
+  }
+]

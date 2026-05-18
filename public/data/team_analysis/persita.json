@@ -1,0 +1,186 @@
+[
+  {
+    "Metric": "Possession %",
+    "Team": "45.3%",
+    "League Avg": "50.0%",
+    "Rank": "14 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Poss % (Neutral / Draw)",
+    "Team": "47.1%",
+    "League Avg": "50.5%",
+    "Rank": "12 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Poss % (Home)",
+    "Team": "47.7%",
+    "League Avg": "51.5%",
+    "Rank": "13 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Poss % (Away)",
+    "Team": "42.9%",
+    "League Avg": "48.6%",
+    "Rank": "16 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Pass Accuracy %",
+    "Team": "80.9%",
+    "League Avg": "81.5%",
+    "Rank": "12 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Direct Play %",
+    "Team": "13.4%",
+    "League Avg": "12.1%",
+    "Rank": "5 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Direct % (When Losing)",
+    "Team": "13.4%",
+    "League Avg": "11.9%",
+    "Rank": "3 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Territory %",
+    "Team": "46.8%",
+    "League Avg": "52.4%",
+    "Rank": "16 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Avg Shots",
+    "Team": "10.656",
+    "League Avg": "12.346",
+    "Rank": "16 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Avg xG",
+    "Team": "1.316",
+    "League Avg": "1.434",
+    "Rank": "12 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "xG per Shot",
+    "Team": "0.122",
+    "League Avg": "0.115",
+    "Rank": "8 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Key Passes / Shot",
+    "Team": "0.546",
+    "League Avg": "0.627",
+    "Rank": "18 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Cross / Shot",
+    "Team": "1.196",
+    "League Avg": "1.282",
+    "Rank": "13 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Shot Dominance",
+    "Team": "1.008",
+    "League Avg": "1.330",
+    "Rank": "15 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "xG Dominance",
+    "Team": "1.379",
+    "League Avg": "2.099",
+    "Rank": "12 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Proactive Defense %",
+    "Team": "16.2%",
+    "League Avg": "16.7%",
+    "Rank": "9 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Step-Out Ratio %",
+    "Team": "10.9%",
+    "League Avg": "18.2%",
+    "Rank": "18 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Def. Actions / Opp. Shot",
+    "Team": "2.874",
+    "League Avg": "3.150",
+    "Rank": "11 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Aerial Tendency %",
+    "Team": "20.5%",
+    "League Avg": "16.8%",
+    "Rank": "1 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Aerial Win Rate %",
+    "Team": "48.4%",
+    "League Avg": "46.3%",
+    "Rank": "4 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Duels per Match",
+    "Team": "138.531",
+    "League Avg": "137.085",
+    "Rank": "8 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Shots (Winning)",
+    "Team": "12.417",
+    "League Avg": "13.326",
+    "Rank": "11 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  },
+  {
+    "Metric": "Shots (Losing)",
+    "Team": "9.643",
+    "League Avg": "11.311",
+    "Rank": "15 / 18",
+    "team": "Persita Tangerang",
+    "team_slug": "persita"
+  }
+]

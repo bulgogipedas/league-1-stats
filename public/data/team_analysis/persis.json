@@ -1,0 +1,186 @@
+[
+  {
+    "Metric": "Possession %",
+    "Team": "48.0%",
+    "League Avg": "50.0%",
+    "Rank": "11 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Poss % (Neutral / Draw)",
+    "Team": "45.6%",
+    "League Avg": "50.5%",
+    "Rank": "15 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Poss % (Home)",
+    "Team": "47.2%",
+    "League Avg": "51.5%",
+    "Rank": "14 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Poss % (Away)",
+    "Team": "48.8%",
+    "League Avg": "48.6%",
+    "Rank": "9 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Pass Accuracy %",
+    "Team": "82.0%",
+    "League Avg": "81.5%",
+    "Rank": "8 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Direct Play %",
+    "Team": "11.5%",
+    "League Avg": "12.1%",
+    "Rank": "13 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Direct % (When Losing)",
+    "Team": "10.9%",
+    "League Avg": "11.9%",
+    "Rank": "13 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Territory %",
+    "Team": "51.9%",
+    "League Avg": "52.4%",
+    "Rank": "13 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Avg Shots",
+    "Team": "11.875",
+    "League Avg": "12.346",
+    "Rank": "9 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Avg xG",
+    "Team": "1.253",
+    "League Avg": "1.434",
+    "Rank": "14 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "xG per Shot",
+    "Team": "0.106",
+    "League Avg": "0.115",
+    "Rank": "15 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Key Passes / Shot",
+    "Team": "0.640",
+    "League Avg": "0.627",
+    "Rank": "7 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Cross / Shot",
+    "Team": "1.449",
+    "League Avg": "1.282",
+    "Rank": "4 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Shot Dominance",
+    "Team": "0.926",
+    "League Avg": "1.330",
+    "Rank": "17 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "xG Dominance",
+    "Team": "0.933",
+    "League Avg": "2.099",
+    "Rank": "18 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Proactive Defense %",
+    "Team": "16.2%",
+    "League Avg": "16.7%",
+    "Rank": "12 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Step-Out Ratio %",
+    "Team": "16.5%",
+    "League Avg": "18.2%",
+    "Rank": "14 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Def. Actions / Opp. Shot",
+    "Team": "2.364",
+    "League Avg": "3.150",
+    "Rank": "18 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Aerial Tendency %",
+    "Team": "17.5%",
+    "League Avg": "16.8%",
+    "Rank": "5 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Aerial Win Rate %",
+    "Team": "44.2%",
+    "League Avg": "46.3%",
+    "Rank": "15 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Duels per Match",
+    "Team": "137.156",
+    "League Avg": "137.085",
+    "Rank": "10 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Shots (Winning)",
+    "Team": "13.333",
+    "League Avg": "13.326",
+    "Rank": "8 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  },
+  {
+    "Metric": "Shots (Losing)",
+    "Team": "9.625",
+    "League Avg": "11.311",
+    "Rank": "16 / 18",
+    "team": "Persis Solo",
+    "team_slug": "persis"
+  }
+]

@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap");
+
+:root {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f4f4f4;
+  --bg-card: #ffffff;
+  --border: #e0e0e0;
+  --border-strong: #161616;
+  --accent-primary: #0f62fe;
+  --accent-hover: #0353e9;
+  --accent-secondary: #f1c21b;
+  --text-primary: #161616;
+  --text-secondary: #525252;
+  --text-subtle: #8c8c8c;
+  --win: #24a148;
+  --draw: #8d8d8d;
+  --loss: #da1e28;
+  --pitch-green: #f4f4f4;
+  --pitch-lines: #c6c6c6;
+}

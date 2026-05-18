@@ -1,0 +1,34 @@
+﻿Date,Round,Match,Score,Venue,Opponent,Result,Avg Rating,Passes,Acc. Passes,Long Balls,Acc. Long Balls,Assists,Own Half Passes,Acc. Own Half Passes,Opp Half Passes,Acc. Opp Half Passes,Crosses,Acc. Crosses,Key Passes,Aerial Duels Lost,Aerial Duels Won,Duels Lost,Duels Won,Challenges Lost,Contests,Contests Won,Shots,Shots on Target,Shots off Target,Shots Blocked,Goals,Hit Woodwork,Big Chances Missed,xG,Clearances,Blocked Shots,Interceptions,Ball Recoveries,Tackles,Tackles Won,Errors → Shot,Dispossessed,Fouls Drawn,Fouls Committed,Offsides,Pen. Conceded,Pen. Won,Own Goals,Crosses Not Claimed,High Claims,Saves (Box),Saves,Sweeper Actions,Acc. Sweeper Actions,Touches,Unsuccessful Touches,Possession Lost
+2025-08-08,1,Persebaya Surabaya vs PSIM Yogyakarta,0 - 1,Home,PSIM,L,6.75,169,131,28,14,0,94,80,71,47,7,2,1,2,6,31,17,1,5,4,0,0,,,0,,,0,9,1,8,38,0,0,2,2,3,8,0,,,0,,,,,,,208,0,44
+2025-08-16,2,Persebaya Surabaya vs Persita Tangerang,1 - 0,Away,Persita,W,7.02,118,97,22,10,1,71,65,41,27,0,0,1,14,7,38,16,2,2,2,0,0,,,0,,,0,16,2,5,28,4,3,0,,2,5,0,,,0,,,,,,,154,6,29
+2025-08-23,3,Persebaya Surabaya vs Bali United FC,5 - 2,Home,Bali Utd,W,6.816666666666666,117,96,25,8,0,82,73,32,22,0,0,,1,6,13,16,1,1,0,3,3,,,1,,,0.29,13,3,4,35,1,1,0,1,4,3,0,,,0,,,,,,,145,0,28
+2025-12-06,4,Persebaya Surabaya vs PSM Makassar,1 - 1,Away,PSM,D,6.5,109,78,14,2,0,73,61,31,16,5,0,,9,5,28,12,3,4,3,2,0,1,1,0,,,0,12,4,5,25,2,1,2,1,2,3,0,,,0,,,,,,,137,0,33
+2025-09-12,5,Persebaya Surabaya vs Persib Bandung,0 - 1,Away,Persib,L,6.75,163,147,24,15,0,98,93,60,49,6,2,,5,3,29,13,4,6,4,4,1,,3,0,,,0.27,8,1,6,34,1,1,1,1,2,4,0,,,0,,,,,,,228,4,31
+2025-09-19,6,Persebaya Surabaya vs Semen Padang FC,1 - 0,Home,Semen Padang,W,6.85,185,166,8,6,0,113,104,72,62,6,1,,5,6,35,19,2,6,5,1,0,1,,0,,,0,6,1,1,24,2,2,0,2,5,5,0,,,0,,,,,,,239,0,27
+2025-09-26,7,Persebaya Surabaya vs Dewa United FC,1 - 1,Away,Dewa Utd,D,7.02,109,91,23,12,0,73,65,30,21,1,1,1,6,6,28,15,3,6,5,0,0,,,0,,,0,19,2,11,29,4,2,1,,3,6,0,,1,0,,,,,,,153,1,33
+2025-12-28,8,Persebaya Surabaya vs Persijap Jepara,4 - 0,Home,Persijap,W,7,146,120,18,10,0,85,75,56,44,3,0,,3,7,39,21,6,3,3,2,1,,1,1,,,0.08,14,2,3,38,3,3,1,,3,2,0,,,0,,,,,,,192,3,37
+2025-10-18,9,Persebaya Surabaya vs Persija Jakarta,1 - 3,Home,Persija,L,6.44,107,89,14,7,0,65,58,40,31,2,1,,3,3,25,14,4,1,1,4,3,1,,1,,,0.41,8,2,3,29,1,1,2,,5,6,1,1,,0,,,,,,,143,0,37
+2025-10-24,10,Persebaya Surabaya vs PSBS Biak,0 - 0,Away,PSBS,D,6.016666666666667,113,87,17,6,0,67,55,36,28,1,0,,7,9,23,15,4,1,1,0,0,,,0,,,0,11,4,7,30,4,0,3,3,3,5,0,,,0,,,,,,,150,1,40
+2025-11-02,11,Persebaya Surabaya vs Persis Solo,2 - 1,Home,Persis,W,6.72,165,151,18,13,0,93,90,67,58,0,0,,4,5,20,13,5,0,0,2,0,2,,0,,,0.04,14,2,4,27,1,0,0,1,1,1,0,,,0,,,,,,,219,1,23
+2025-11-07,12,Persebaya Surabaya vs Persik Kediri,1 - 1,Away,Persik,D,6.74,71,52,16,9,0,47,38,19,10,3,1,1,10,7,38,14,2,6,2,2,2,,,1,,,0.96,18,1,9,37,1,0,0,,2,7,0,,,0,,,,,,,121,3,30
+2025-11-22,13,Persebaya Surabaya vs Arema FC,1 - 1,Home,Arema,D,6.725,107,87,11,6,0,51,43,48,39,7,3,2,6,4,33,20,7,7,4,5,2,1,2,0,,,0.29,7,3,7,35,0,0,3,2,2,2,0,,,1,,,,,,,160,3,31
+2025-11-28,14,Persebaya Surabaya vs Bhayangkara Presisi FC,1 - 1,Away,Bhayangkara ,D,6.84,119,83,24,11,0,54,46,55,30,4,1,2,9,11,36,27,4,7,5,1,0,,1,0,,,0.01,25,3,9,35,1,1,3,,6,3,0,,,0,,,,,,,175,4,60
+2025-12-20,15,Persebaya Surabaya vs Borneo FC Samarinda,2 - 2,Home,Borneo,D,6.62,193,174,18,7,0,115,107,70,60,7,5,3,7,8,47,20,6,8,7,5,1,4,,0,,,0.44,15,0,12,35,5,2,1,,2,1,0,,,1,,,,,,,256,1,34
+2026-01-03,16,Persebaya Surabaya vs Madura United FC,1 - 0,Away,Madura Utd,W,7.22,210,187,26,15,0,125,121,78,60,11,5,3,10,10,41,16,2,3,2,4,1,1,2,0,,,0.14,15,2,11,40,1,0,1,1,2,3,1,,,0,,,,,,,277,1,35
+2026-01-10,17,Persebaya Surabaya vs Malut United FC,2 - 1,Home,Malut Utd,W,6.716666666666667,57,33,20,9,0,27,20,23,9,2,1,,8,8,37,16,8,2,2,2,1,1,,0,,1,0.47,26,6,5,29,4,3,2,,2,0,0,,,0,,,,,,,89,2,42
+2026-01-25,18,Persebaya Surabaya vs PSIM Yogyakarta,3 - 0,Away,PSIM,W,7.15,75,48,26,13,1,29,24,33,18,2,0,1,6,7,20,10,3,0,0,1,0,1,,0,,,0.05,8,5,7,30,0,0,0,,1,5,0,,0,0,,,,,,,94,0,30
+2026-02-01,19,Persebaya Surabaya vs Dewa United FC,1 - 1,Home,Dewa Utd,D,6.7,155,127,24,10,1,57,53,92,70,6,4,1,7,5,29,16,3,5,4,3,0,1,2,0,,,0.02,7,0,5,37,0,0,1,2,2,1,0,,,0,,,,,,,208,2,36
+2026-02-07,20,Persebaya Surabaya vs Bali United FC,3 - 1,Away,Bali Utd,W,6.716666666666667,87,53,33,11,0,34,26,45,20,2,0,1,7,11,36,19,7,2,1,3,1,1,1,1,,,0.2,18,6,9,43,1,0,3,,0,2,1,,,0,,,,,,,124,1,51
+2026-02-14,21,Persebaya Surabaya vs Bhayangkara Presisi FC,1 - 2,Home,Bhayangkara ,L,6.82,160,120,38,19,0,68,62,81,51,7,3,2,5,5,28,19,4,4,4,1,0,1,,0,,,0.12,13,1,9,47,0,0,0,,2,3,0,,,0,,,,,,,201,1,47
+2026-02-21,22,Persebaya Surabaya vs Persijap Jepara,1 - 3,Away,Persijap,L,6.44,122,84,34,13,0,49,44,66,37,3,1,2,9,11,32,24,6,5,3,4,0,2,2,0,1,,0.13,5,2,6,37,1,0,0,,4,4,0,,,0,,,,,,,166,1,53
+2026-02-25,23,Persebaya Surabaya vs PSM Makassar,1 - 0,Home,PSM,W,6.86,99,74,21,5,0,48,41,48,30,4,1,2,8,6,22,12,4,1,1,4,0,4,,0,,1,0.47,10,1,4,29,0,0,1,,2,2,0,,,0,,,,,,,119,0,26
+2026-03-02,24,Persebaya Surabaya vs Persib Bandung,2 - 2,Home,Persib,D,6.533333333333333,122,87,24,11,0,78,59,38,23,1,0,,6,11,26,16,5,1,1,1,1,,,0,,,0.1,20,1,8,31,2,1,1,,3,4,1,,,0,,,,,,,159,1,58
+2026-03-07,25,Persebaya Surabaya vs Borneo FC Samarinda,1 - 5,Away,Borneo,L,6.3,149,130,25,17,0,87,83,58,45,5,3,2,4,4,30,6,6,0,0,5,3,2,,1,,,0.93,17,1,7,19,0,0,2,,0,6,0,,,0,,,,,,,185,0,29
+2026-04-04,26,Persebaya Surabaya vs Persita Tangerang,1 - 0,Home,Persita,W,6.92,172,140,32,14,0,89,82,74,53,5,2,2,5,7,29,18,9,4,3,2,0,2,,0,,,0.02,2,2,7,30,2,1,0,,1,4,0,,,0,,,,,,,213,1,33
+2026-04-11,27,Persebaya Surabaya vs Persija Jakarta,0 - 3,Away,Persija,L,6.4,125,95,22,7,0,59,51,56,37,4,2,1,4,4,20,10,2,3,2,2,0,1,1,0,1,,0.21,5,2,9,22,3,1,0,,3,4,0,,,0,,,,,,,151,1,43
+2026-04-17,28,Persebaya Surabaya vs Madura United FC,1 - 2,Home,Madura Utd,L,6.92,194,162,15,11,0,64,55,125,104,21,8,4,9,4,32,20,3,4,4,3,0,2,1,0,,,0.07,8,1,8,43,0,0,0,1,5,1,1,,,0,,,,,,,263,1,42
+2026-04-23,29,Persebaya Surabaya vs Malut United FC,2 - 0,Away,Malut Utd,W,6.95,130,114,16,10,0,82,74,44,37,3,3,2,6,7,30,14,6,1,0,2,0,2,,0,,1,0.33,17,0,7,33,4,3,2,,2,1,1,,,0,,,,,,,177,0,28
+2026-04-28,30,Persebaya Surabaya vs Arema FC,4 - 0,Away,Arema,W,7.325,161,143,19,12,0,100,98,54,40,5,3,,5,1,21,10,4,1,0,2,1,1,,1,1,,0.43,9,2,9,29,0,0,1,1,1,1,0,,,0,,,,,,,210,0,22
+2026-05-02,31,Persebaya Surabaya vs PSBS Biak,4 - 0,Home,PSBS,W,7.175,179,158,11,9,0,56,50,118,104,6,0,3,4,6,20,14,2,1,1,4,1,1,2,0,,,0.35,8,1,5,31,1,0,1,,0,3,0,,,0,,,,,,,233,1,19
+2026-05-09,32,Persebaya Surabaya vs Persis Solo,0 - 0,Away,Persis,D,7.225,216,198,23,15,0,119,115,96,82,8,2,,6,7,19,19,3,3,2,3,0,,3,0,,,0.18,12,2,5,32,2,0,0,,2,3,0,,,0,,,,,,,289,2,30
+2026-05-15,33,Persebaya Surabaya vs Semen Padang FC,7 - 0,Away,Semen Padang,W,,,,,,0,,,,,,,,,,,,,,,0,,,,1,,,,,,,,,,,,,,,,,0,,,,,,,,,

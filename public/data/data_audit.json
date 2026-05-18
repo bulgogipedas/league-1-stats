@@ -1,0 +1,1384 @@
+{
+  "standings_source": {
+    "name": "Liga Indonesia Baru, BRI Super League 2025-26 standings",
+    "url": "https://www.ligaindonesiabaru.com/table/download/88/BRI%20SUPER%20LEAGUE%202025-26/1/0/",
+    "published": "2026-05-16",
+    "note": "Official downloadable standings snapshot found via public search. Match-level CSVs remain local source for per-match charts."
+  },
+  "standings_policy": "Official standings override local aggregate table. Match-level charts still use local CSV match files.",
+  "standings_comparison": [
+    {
+      "team_slug": "persib",
+      "team": "Persib Bandung",
+      "status": "review",
+      "diffs": {
+        "W": {
+          "raw": 22,
+          "official": 23
+        },
+        "D": {
+          "raw": 8,
+          "official": 6
+        },
+        "L": {
+          "raw": 2,
+          "official": 3
+        },
+        "GF": {
+          "raw": 52,
+          "official": 57
+        },
+        "GA": {
+          "raw": 17,
+          "official": 21
+        },
+        "GD": {
+          "raw": 35,
+          "official": 36
+        },
+        "Pts": {
+          "raw": 74,
+          "official": 75
+        },
+        "Pos": {
+          "raw": 2,
+          "official": 1
+        }
+      },
+      "local": {
+        "Pos": 2,
+        "MP": 32,
+        "W": 22,
+        "D": 8,
+        "L": 2,
+        "GF": 52,
+        "GA": 17,
+        "GD": 35,
+        "Pts": 74
+      },
+      "official": {
+        "team_slug": "persib",
+        "Pos": 1,
+        "MP": 32,
+        "W": 23,
+        "D": 6,
+        "L": 3,
+        "GF": 57,
+        "GA": 21,
+        "GD": 36,
+        "Pts": 75
+      }
+    },
+    {
+      "team_slug": "borneo",
+      "team": "Borneo FC",
+      "status": "review",
+      "diffs": {
+        "Pos": {
+          "raw": 1,
+          "official": 2
+        }
+      },
+      "local": {
+        "Pos": 1,
+        "MP": 32,
+        "W": 24,
+        "D": 3,
+        "L": 5,
+        "GF": 67,
+        "GA": 30,
+        "GD": 37,
+        "Pts": 75
+      },
+      "official": {
+        "team_slug": "borneo",
+        "Pos": 2,
+        "MP": 32,
+        "W": 24,
+        "D": 3,
+        "L": 5,
+        "GF": 67,
+        "GA": 30,
+        "GD": 37,
+        "Pts": 75
+      }
+    },
+    {
+      "team_slug": "persija",
+      "team": "Persija Jakarta",
+      "status": "review",
+      "diffs": {
+        "W": {
+          "raw": 19,
+          "official": 20
+        },
+        "D": {
+          "raw": 6,
+          "official": 5
+        },
+        "GF": {
+          "raw": 57,
+          "official": 59
+        },
+        "GD": {
+          "raw": 29,
+          "official": 31
+        },
+        "Pts": {
+          "raw": 63,
+          "official": 65
+        }
+      },
+      "local": {
+        "Pos": 3,
+        "MP": 32,
+        "W": 19,
+        "D": 6,
+        "L": 7,
+        "GF": 57,
+        "GA": 28,
+        "GD": 29,
+        "Pts": 63
+      },
+      "official": {
+        "team_slug": "persija",
+        "Pos": 3,
+        "MP": 32,
+        "W": 20,
+        "D": 5,
+        "L": 7,
+        "GF": 59,
+        "GA": 28,
+        "GD": 31,
+        "Pts": 65
+      }
+    },
+    {
+      "team_slug": "dewa",
+      "team": "Dewa United",
+      "status": "review",
+      "diffs": {
+        "Pos": {
+          "raw": 5,
+          "official": 4
+        }
+      },
+      "local": {
+        "Pos": 5,
+        "MP": 32,
+        "W": 16,
+        "D": 5,
+        "L": 11,
+        "GF": 44,
+        "GA": 35,
+        "GD": 9,
+        "Pts": 53
+      },
+      "official": {
+        "team_slug": "dewa",
+        "Pos": 4,
+        "MP": 32,
+        "W": 16,
+        "D": 5,
+        "L": 11,
+        "GF": 44,
+        "GA": 35,
+        "GD": 9,
+        "Pts": 53
+      }
+    },
+    {
+      "team_slug": "persebaya",
+      "team": "Persebaya",
+      "status": "review",
+      "diffs": {
+        "MP": {
+          "raw": 33,
+          "official": 32
+        },
+        "W": {
+          "raw": 15,
+          "official": 14
+        },
+        "GF": {
+          "raw": 56,
+          "official": 49
+        },
+        "GD": {
+          "raw": 21,
+          "official": 14
+        },
+        "Pts": {
+          "raw": 55,
+          "official": 52
+        },
+        "Pos": {
+          "raw": 4,
+          "official": 5
+        }
+      },
+      "local": {
+        "Pos": 4,
+        "MP": 33,
+        "W": 15,
+        "D": 10,
+        "L": 8,
+        "GF": 56,
+        "GA": 35,
+        "GD": 21,
+        "Pts": 55
+      },
+      "official": {
+        "team_slug": "persebaya",
+        "Pos": 5,
+        "MP": 32,
+        "W": 14,
+        "D": 10,
+        "L": 8,
+        "GF": 49,
+        "GA": 35,
+        "GD": 14,
+        "Pts": 52
+      }
+    },
+    {
+      "team_slug": "malut",
+      "team": "Malut United",
+      "status": "aligned",
+      "diffs": {},
+      "local": {
+        "Pos": 6,
+        "MP": 32,
+        "W": 15,
+        "D": 7,
+        "L": 10,
+        "GF": 66,
+        "GA": 45,
+        "GD": 21,
+        "Pts": 52
+      },
+      "official": {
+        "team_slug": "malut",
+        "Pos": 6,
+        "MP": 32,
+        "W": 15,
+        "D": 7,
+        "L": 10,
+        "GF": 66,
+        "GA": 45,
+        "GD": 21,
+        "Pts": 52
+      }
+    },
+    {
+      "team_slug": "bhayangkara",
+      "team": "Bhayangkara",
+      "status": "review",
+      "diffs": {
+        "D": {
+          "raw": 6,
+          "official": 5
+        },
+        "L": {
+          "raw": 11,
+          "official": 12
+        },
+        "GF": {
+          "raw": 43,
+          "official": 45
+        },
+        "GA": {
+          "raw": 37,
+          "official": 41
+        },
+        "GD": {
+          "raw": 6,
+          "official": 4
+        },
+        "Pts": {
+          "raw": 51,
+          "official": 50
+        }
+      },
+      "local": {
+        "Pos": 7,
+        "MP": 32,
+        "W": 15,
+        "D": 6,
+        "L": 11,
+        "GF": 43,
+        "GA": 37,
+        "GD": 6,
+        "Pts": 51
+      },
+      "official": {
+        "team_slug": "bhayangkara",
+        "Pos": 7,
+        "MP": 32,
+        "W": 15,
+        "D": 5,
+        "L": 12,
+        "GF": 45,
+        "GA": 41,
+        "GD": 4,
+        "Pts": 50
+      }
+    },
+    {
+      "team_slug": "bali",
+      "team": "Bali United",
+      "status": "aligned",
+      "diffs": {},
+      "local": {
+        "Pos": 8,
+        "MP": 32,
+        "W": 12,
+        "D": 9,
+        "L": 11,
+        "GF": 52,
+        "GA": 47,
+        "GD": 5,
+        "Pts": 45
+      },
+      "official": {
+        "team_slug": "bali",
+        "Pos": 8,
+        "MP": 32,
+        "W": 12,
+        "D": 9,
+        "L": 11,
+        "GF": 52,
+        "GA": 47,
+        "GD": 5,
+        "Pts": 45
+      }
+    },
+    {
+      "team_slug": "persita",
+      "team": "Persita Tangerang",
+      "status": "review",
+      "diffs": {
+        "W": {
+          "raw": 12,
+          "official": 13
+        },
+        "D": {
+          "raw": 6,
+          "official": 5
+        },
+        "GF": {
+          "raw": 34,
+          "official": 36
+        },
+        "GA": {
+          "raw": 32,
+          "official": 33
+        },
+        "GD": {
+          "raw": 2,
+          "official": 3
+        },
+        "Pts": {
+          "raw": 42,
+          "official": 44
+        },
+        "Pos": {
+          "raw": 10,
+          "official": 9
+        }
+      },
+      "local": {
+        "Pos": 10,
+        "MP": 32,
+        "W": 12,
+        "D": 6,
+        "L": 14,
+        "GF": 34,
+        "GA": 32,
+        "GD": 2,
+        "Pts": 42
+      },
+      "official": {
+        "team_slug": "persita",
+        "Pos": 9,
+        "MP": 32,
+        "W": 13,
+        "D": 5,
+        "L": 14,
+        "GF": 36,
+        "GA": 33,
+        "GD": 3,
+        "Pts": 44
+      }
+    },
+    {
+      "team_slug": "arema",
+      "team": "Arema FC",
+      "status": "review",
+      "diffs": {
+        "Pos": {
+          "raw": 11,
+          "official": 10
+        }
+      },
+      "local": {
+        "Pos": 11,
+        "MP": 32,
+        "W": 11,
+        "D": 9,
+        "L": 12,
+        "GF": 45,
+        "GA": 44,
+        "GD": 1,
+        "Pts": 42
+      },
+      "official": {
+        "team_slug": "arema",
+        "Pos": 10,
+        "MP": 32,
+        "W": 11,
+        "D": 9,
+        "L": 12,
+        "GF": 45,
+        "GA": 44,
+        "GD": 1,
+        "Pts": 42
+      }
+    },
+    {
+      "team_slug": "psim",
+      "team": "PSIM Yogyakarta",
+      "status": "review",
+      "diffs": {
+        "D": {
+          "raw": 13,
+          "official": 12
+        },
+        "L": {
+          "raw": 9,
+          "official": 10
+        },
+        "GA": {
+          "raw": 38,
+          "official": 40
+        },
+        "GD": {
+          "raw": 2,
+          "official": 0
+        },
+        "Pts": {
+          "raw": 43,
+          "official": 42
+        },
+        "Pos": {
+          "raw": 9,
+          "official": 11
+        }
+      },
+      "local": {
+        "Pos": 9,
+        "MP": 32,
+        "W": 10,
+        "D": 13,
+        "L": 9,
+        "GF": 40,
+        "GA": 38,
+        "GD": 2,
+        "Pts": 43
+      },
+      "official": {
+        "team_slug": "psim",
+        "Pos": 11,
+        "MP": 32,
+        "W": 10,
+        "D": 12,
+        "L": 10,
+        "GF": 40,
+        "GA": 40,
+        "GD": 0,
+        "Pts": 42
+      }
+    },
+    {
+      "team_slug": "persik",
+      "team": "Persik Kediri",
+      "status": "aligned",
+      "diffs": {},
+      "local": {
+        "Pos": 12,
+        "MP": 32,
+        "W": 11,
+        "D": 6,
+        "L": 15,
+        "GF": 41,
+        "GA": 53,
+        "GD": -12,
+        "Pts": 39
+      },
+      "official": {
+        "team_slug": "persik",
+        "Pos": 12,
+        "MP": 32,
+        "W": 11,
+        "D": 6,
+        "L": 15,
+        "GF": 41,
+        "GA": 53,
+        "GD": -12,
+        "Pts": 39
+      }
+    },
+    {
+      "team_slug": "persijap",
+      "team": "Persijap Jepara",
+      "status": "review",
+      "diffs": {
+        "Pos": {
+          "raw": 14,
+          "official": 13
+        }
+      },
+      "local": {
+        "Pos": 14,
+        "MP": 32,
+        "W": 9,
+        "D": 7,
+        "L": 16,
+        "GF": 31,
+        "GA": 45,
+        "GD": -14,
+        "Pts": 34
+      },
+      "official": {
+        "team_slug": "persijap",
+        "Pos": 13,
+        "MP": 32,
+        "W": 9,
+        "D": 7,
+        "L": 16,
+        "GF": 31,
+        "GA": 45,
+        "GD": -14,
+        "Pts": 34
+      }
+    },
+    {
+      "team_slug": "psm",
+      "team": "PSM Makassar",
+      "status": "review",
+      "diffs": {
+        "Pos": {
+          "raw": 13,
+          "official": 14
+        }
+      },
+      "local": {
+        "Pos": 13,
+        "MP": 32,
+        "W": 8,
+        "D": 10,
+        "L": 14,
+        "GF": 38,
+        "GA": 45,
+        "GD": -7,
+        "Pts": 34
+      },
+      "official": {
+        "team_slug": "psm",
+        "Pos": 14,
+        "MP": 32,
+        "W": 8,
+        "D": 10,
+        "L": 14,
+        "GF": 38,
+        "GA": 45,
+        "GD": -7,
+        "Pts": 34
+      }
+    },
+    {
+      "team_slug": "madura",
+      "team": "Madura United",
+      "status": "aligned",
+      "diffs": {},
+      "local": {
+        "Pos": 15,
+        "MP": 32,
+        "W": 8,
+        "D": 8,
+        "L": 16,
+        "GF": 34,
+        "GA": 52,
+        "GD": -18,
+        "Pts": 32
+      },
+      "official": {
+        "team_slug": "madura",
+        "Pos": 15,
+        "MP": 32,
+        "W": 8,
+        "D": 8,
+        "L": 16,
+        "GF": 34,
+        "GA": 52,
+        "GD": -18,
+        "Pts": 32
+      }
+    },
+    {
+      "team_slug": "persis",
+      "team": "Persis Solo",
+      "status": "aligned",
+      "diffs": {},
+      "local": {
+        "Pos": 16,
+        "MP": 32,
+        "W": 6,
+        "D": 10,
+        "L": 16,
+        "GF": 35,
+        "GA": 58,
+        "GD": -23,
+        "Pts": 28
+      },
+      "official": {
+        "team_slug": "persis",
+        "Pos": 16,
+        "MP": 32,
+        "W": 6,
+        "D": 10,
+        "L": 16,
+        "GF": 35,
+        "GA": 58,
+        "GD": -23,
+        "Pts": 28
+      }
+    },
+    {
+      "team_slug": "semen-padang",
+      "team": "Semen Padang",
+      "status": "review",
+      "diffs": {
+        "MP": {
+          "raw": 33,
+          "official": 32
+        },
+        "L": {
+          "raw": 23,
+          "official": 22
+        },
+        "GA": {
+          "raw": 62,
+          "official": 55
+        },
+        "GD": {
+          "raw": -40,
+          "official": -33
+        }
+      },
+      "local": {
+        "Pos": 17,
+        "MP": 33,
+        "W": 5,
+        "D": 5,
+        "L": 23,
+        "GF": 22,
+        "GA": 62,
+        "GD": -40,
+        "Pts": 20
+      },
+      "official": {
+        "team_slug": "semen-padang",
+        "Pos": 17,
+        "MP": 32,
+        "W": 5,
+        "D": 5,
+        "L": 22,
+        "GF": 22,
+        "GA": 55,
+        "GD": -33,
+        "Pts": 20
+      }
+    },
+    {
+      "team_slug": "psbs",
+      "team": "PSBS Biak",
+      "status": "review",
+      "diffs": {
+        "MP": {
+          "raw": 33,
+          "official": 32
+        },
+        "L": {
+          "raw": 23,
+          "official": 22
+        },
+        "GF": {
+          "raw": 31,
+          "official": 29
+        },
+        "GA": {
+          "raw": 88,
+          "official": 83
+        },
+        "GD": {
+          "raw": -57,
+          "official": -54
+        }
+      },
+      "local": {
+        "Pos": 18,
+        "MP": 33,
+        "W": 4,
+        "D": 6,
+        "L": 23,
+        "GF": 31,
+        "GA": 88,
+        "GD": -57,
+        "Pts": 18
+      },
+      "official": {
+        "team_slug": "psbs",
+        "Pos": 18,
+        "MP": 32,
+        "W": 4,
+        "D": 6,
+        "L": 22,
+        "GF": 29,
+        "GA": 83,
+        "GD": -54,
+        "Pts": 18
+      }
+    }
+  ],
+  "player_metric_policy": "player-metrics per 90 minutes.csv is a rate table. UI leaderboards must display estimated totals for counting metrics and per90 as secondary context.",
+  "player_per90_examples": [
+    {
+      "player": "Abduh Lestaluhu",
+      "team": "Malut United",
+      "metric": "xG",
+      "per90": 0.009202453987730062,
+      "estimated_total": 0.05
+    },
+    {
+      "player": "Abdul Rahman",
+      "team": "PSM Makassar",
+      "metric": "Goals",
+      "per90": 0.3829787234042553,
+      "estimated_total": 1.0
+    },
+    {
+      "player": "Abrizal Umanailo",
+      "team": "Semen Padang",
+      "metric": "xG",
+      "per90": 0.015714285714285715,
+      "estimated_total": 0.11
+    },
+    {
+      "player": "Abu Kamara",
+      "team": "PSM Makassar",
+      "metric": "Goals",
+      "per90": 0.4753521126760563,
+      "estimated_total": 3.0
+    },
+    {
+      "player": "Achmad Maulana",
+      "team": "Arema FC",
+      "metric": "xG",
+      "per90": 0.029716981132075472,
+      "estimated_total": 0.07
+    },
+    {
+      "player": "Achmat Fahrul Aditia",
+      "team": "PSM Makassar",
+      "metric": "xG",
+      "per90": 0.09940298507462686,
+      "estimated_total": 0.37
+    },
+    {
+      "player": "Adam Alis",
+      "team": "Persib Bandung",
+      "metric": "Goals",
+      "per90": 0.2731411229135053,
+      "estimated_total": 4.0
+    },
+    {
+      "player": "Ade Kristiano",
+      "team": "Semen Padang",
+      "metric": "xG",
+      "per90": 0.0016274864376130199,
+      "estimated_total": 0.01
+    },
+    {
+      "player": "Adi Eko Jayanto",
+      "team": "Persik Kediri",
+      "metric": "xG",
+      "per90": 0.0245136186770428,
+      "estimated_total": 0.07
+    },
+    {
+      "player": "Aditya Warman",
+      "team": "Persija Jakarta",
+      "metric": "Goals",
+      "per90": 0.3249097472924188,
+      "estimated_total": 1.0
+    },
+    {
+      "player": "Adriano Castanheira",
+      "team": "Persis Solo",
+      "metric": "xG",
+      "per90": 0.06987951807228916,
+      "estimated_total": 0.58
+    },
+    {
+      "player": "Adrián Luna",
+      "team": "Persik Kediri",
+      "metric": "Goals",
+      "per90": 0.15761821366024517,
+      "estimated_total": 2.0
+    },
+    {
+      "player": "Ady Setiawan",
+      "team": "Dewa United",
+      "metric": "expected_assists",
+      "per90": 0.19014084507042253,
+      "estimated_total": 0.15
+    },
+    {
+      "player": "Adzikry Fadlillah",
+      "team": "Persijap Jepara",
+      "metric": "Goals",
+      "per90": 0.11583011583011583,
+      "estimated_total": 1.0
+    },
+    {
+      "player": "Agung Mannan",
+      "team": "Persis Solo",
+      "metric": "Assists",
+      "per90": 0.4166666666666667,
+      "estimated_total": 1.0
+    },
+    {
+      "player": "Ahmad Agung",
+      "team": "Borneo FC",
+      "metric": "xG",
+      "per90": 0.005294117647058823,
+      "estimated_total": 0.01
+    },
+    {
+      "player": "Ahmad Fahd Alchoir",
+      "team": "Persita Tangerang",
+      "metric": "xG",
+      "per90": 0.08111587982832617,
+      "estimated_total": 0.21
+    },
+    {
+      "player": "Ahmad Nufiandani",
+      "team": "Madura United",
+      "metric": "Goals",
+      "per90": 0.15332197614991483,
+      "estimated_total": 1.0
+    },
+    {
+      "player": "Ahmad Nur Hardianto",
+      "team": "Persita Tangerang",
+      "metric": "Goals",
+      "per90": 0.32886723507917176,
+      "estimated_total": 3.0
+    },
+    {
+      "player": "Aji Kusuma",
+      "team": "Madura United",
+      "metric": "Goals",
+      "per90": 0.23872679045092837,
+      "estimated_total": 2.0
+    },
+    {
+      "player": "Akbar Tanjung",
+      "team": "PSM Makassar",
+      "metric": "Assists",
+      "per90": 0.06802721088435375,
+      "estimated_total": 1.0
+    },
+    {
+      "player": "Al Hamra Hehanusa",
+      "team": "Persik Kediri",
+      "metric": "Goals",
+      "per90": 0.08466603951081844,
+      "estimated_total": 1.0
+    },
+    {
+      "player": "Alaeddine Ajaraie",
+      "team": "Persija Jakarta",
+      "metric": "Goals",
+      "per90": 0.40601503759398494,
+      "estimated_total": 3.0
+    },
+    {
+      "player": "Alan Cardoso",
+      "team": "Persija Jakarta",
+      "metric": "Assists",
+      "per90": 0.09782608695652174,
+      "estimated_total": 1.0
+    },
+    {
+      "player": "Albertino Joao Pereira",
+      "team": "Madura United",
+      "metric": "Goals",
+      "per90": 0.15280135823429541,
+      "estimated_total": 2.0
+    }
+  ],
+  "local_standings_before_sync": [
+    {
+      "team": "Borneo FC",
+      "team_slug": "borneo",
+      "MP": 32,
+      "W": 24,
+      "D": 3,
+      "L": 5,
+      "GF": 67,
+      "GA": 30,
+      "Pts": 75,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "home_win_rate": 87.5,
+      "away_win_rate": 62.5,
+      "goals_per_match": 2.09,
+      "xg_per_match": 0.18,
+      "avg_rating": 6.68,
+      "GD": 37,
+      "Pos": 1
+    },
+    {
+      "team": "Persib Bandung",
+      "team_slug": "persib",
+      "MP": 32,
+      "W": 22,
+      "D": 8,
+      "L": 2,
+      "GF": 52,
+      "GA": 17,
+      "Pts": 74,
+      "form": [
+        "D",
+        "D",
+        "D",
+        "W",
+        "W"
+      ],
+      "home_win_rate": 93.8,
+      "away_win_rate": 43.8,
+      "goals_per_match": 1.62,
+      "xg_per_match": 0.23,
+      "avg_rating": 6.88,
+      "GD": 35,
+      "Pos": 2
+    },
+    {
+      "team": "Persija Jakarta",
+      "team_slug": "persija",
+      "MP": 32,
+      "W": 19,
+      "D": 6,
+      "L": 7,
+      "GF": 57,
+      "GA": 28,
+      "Pts": 63,
+      "form": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "L"
+      ],
+      "home_win_rate": 56.2,
+      "away_win_rate": 62.5,
+      "goals_per_match": 1.78,
+      "xg_per_match": 0.14,
+      "avg_rating": 6.66,
+      "GD": 29,
+      "Pos": 3
+    },
+    {
+      "team": "Persebaya",
+      "team_slug": "persebaya",
+      "MP": 33,
+      "W": 15,
+      "D": 10,
+      "L": 8,
+      "GF": 56,
+      "GA": 35,
+      "Pts": 55,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "home_win_rate": 50.0,
+      "away_win_rate": 41.2,
+      "goals_per_match": 1.7,
+      "xg_per_match": 0.21,
+      "avg_rating": 6.58,
+      "GD": 21,
+      "Pos": 4
+    },
+    {
+      "team": "Dewa United",
+      "team_slug": "dewa",
+      "MP": 32,
+      "W": 16,
+      "D": 5,
+      "L": 11,
+      "GF": 44,
+      "GA": 35,
+      "Pts": 53,
+      "form": [
+        "D",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "home_win_rate": 56.2,
+      "away_win_rate": 43.8,
+      "goals_per_match": 1.38,
+      "xg_per_match": 0.14,
+      "avg_rating": 6.53,
+      "GD": 9,
+      "Pos": 5
+    },
+    {
+      "team": "Malut United",
+      "team_slug": "malut",
+      "MP": 32,
+      "W": 15,
+      "D": 7,
+      "L": 10,
+      "GF": 66,
+      "GA": 45,
+      "Pts": 52,
+      "form": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "home_win_rate": 50.0,
+      "away_win_rate": 43.8,
+      "goals_per_match": 2.06,
+      "xg_per_match": 0.18,
+      "avg_rating": 6.47,
+      "GD": 21,
+      "Pos": 6
+    },
+    {
+      "team": "Bhayangkara",
+      "team_slug": "bhayangkara",
+      "MP": 32,
+      "W": 15,
+      "D": 6,
+      "L": 11,
+      "GF": 43,
+      "GA": 37,
+      "Pts": 51,
+      "form": [
+        "W",
+        "L",
+        "D",
+        "L",
+        "W"
+      ],
+      "home_win_rate": 62.5,
+      "away_win_rate": 31.2,
+      "goals_per_match": 1.34,
+      "xg_per_match": 0.2,
+      "avg_rating": 6.75,
+      "GD": 6,
+      "Pos": 7
+    },
+    {
+      "team": "Bali United",
+      "team_slug": "bali",
+      "MP": 32,
+      "W": 12,
+      "D": 9,
+      "L": 11,
+      "GF": 52,
+      "GA": 47,
+      "Pts": 45,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "home_win_rate": 31.2,
+      "away_win_rate": 43.8,
+      "goals_per_match": 1.62,
+      "xg_per_match": 0.22,
+      "avg_rating": 6.85,
+      "GD": 5,
+      "Pos": 8
+    },
+    {
+      "team": "PSIM Yogyakarta",
+      "team_slug": "psim",
+      "MP": 32,
+      "W": 10,
+      "D": 13,
+      "L": 9,
+      "GF": 40,
+      "GA": 38,
+      "Pts": 43,
+      "form": [
+        "L",
+        "D",
+        "L",
+        "L",
+        "W"
+      ],
+      "home_win_rate": 31.2,
+      "away_win_rate": 31.2,
+      "goals_per_match": 1.25,
+      "xg_per_match": 0.13,
+      "avg_rating": 6.75,
+      "GD": 2,
+      "Pos": 9
+    },
+    {
+      "team": "Persita Tangerang",
+      "team_slug": "persita",
+      "MP": 32,
+      "W": 12,
+      "D": 6,
+      "L": 14,
+      "GF": 34,
+      "GA": 32,
+      "Pts": 42,
+      "form": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "home_win_rate": 43.8,
+      "away_win_rate": 31.2,
+      "goals_per_match": 1.06,
+      "xg_per_match": 0.08,
+      "avg_rating": 6.67,
+      "GD": 2,
+      "Pos": 10
+    },
+    {
+      "team": "Arema FC",
+      "team_slug": "arema",
+      "MP": 32,
+      "W": 11,
+      "D": 9,
+      "L": 12,
+      "GF": 45,
+      "GA": 44,
+      "Pts": 42,
+      "form": [
+        "W",
+        "D",
+        "L",
+        "L",
+        "W"
+      ],
+      "home_win_rate": 43.8,
+      "away_win_rate": 25.0,
+      "goals_per_match": 1.41,
+      "xg_per_match": 0.11,
+      "avg_rating": 6.68,
+      "GD": 1,
+      "Pos": 11
+    },
+    {
+      "team": "Persik Kediri",
+      "team_slug": "persik",
+      "MP": 32,
+      "W": 11,
+      "D": 6,
+      "L": 15,
+      "GF": 41,
+      "GA": 53,
+      "Pts": 39,
+      "form": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "home_win_rate": 50.0,
+      "away_win_rate": 18.8,
+      "goals_per_match": 1.28,
+      "xg_per_match": 0.21,
+      "avg_rating": 6.45,
+      "GD": -12,
+      "Pos": 12
+    },
+    {
+      "team": "PSM Makassar",
+      "team_slug": "psm",
+      "MP": 32,
+      "W": 8,
+      "D": 10,
+      "L": 14,
+      "GF": 38,
+      "GA": 45,
+      "Pts": 34,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "home_win_rate": 25.0,
+      "away_win_rate": 25.0,
+      "goals_per_match": 1.19,
+      "xg_per_match": 0.24,
+      "avg_rating": 6.58,
+      "GD": -7,
+      "Pos": 13
+    },
+    {
+      "team": "Persijap Jepara",
+      "team_slug": "persijap",
+      "MP": 32,
+      "W": 9,
+      "D": 7,
+      "L": 16,
+      "GF": 31,
+      "GA": 45,
+      "Pts": 34,
+      "form": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "home_win_rate": 37.5,
+      "away_win_rate": 18.8,
+      "goals_per_match": 0.97,
+      "xg_per_match": 0.13,
+      "avg_rating": 6.74,
+      "GD": -14,
+      "Pos": 14
+    },
+    {
+      "team": "Madura United",
+      "team_slug": "madura",
+      "MP": 32,
+      "W": 8,
+      "D": 8,
+      "L": 16,
+      "GF": 34,
+      "GA": 52,
+      "Pts": 32,
+      "form": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "home_win_rate": 25.0,
+      "away_win_rate": 25.0,
+      "goals_per_match": 1.06,
+      "xg_per_match": 0.25,
+      "avg_rating": 6.49,
+      "GD": -18,
+      "Pos": 15
+    },
+    {
+      "team": "Persis Solo",
+      "team_slug": "persis",
+      "MP": 32,
+      "W": 6,
+      "D": 10,
+      "L": 16,
+      "GF": 35,
+      "GA": 58,
+      "Pts": 28,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "D"
+      ],
+      "home_win_rate": 25.0,
+      "away_win_rate": 12.5,
+      "goals_per_match": 1.09,
+      "xg_per_match": 0.22,
+      "avg_rating": 6.67,
+      "GD": -23,
+      "Pos": 16
+    },
+    {
+      "team": "Semen Padang",
+      "team_slug": "semen-padang",
+      "MP": 33,
+      "W": 5,
+      "D": 5,
+      "L": 23,
+      "GF": 22,
+      "GA": 62,
+      "Pts": 20,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "home_win_rate": 17.6,
+      "away_win_rate": 12.5,
+      "goals_per_match": 0.67,
+      "xg_per_match": 0.17,
+      "avg_rating": 6.47,
+      "GD": -40,
+      "Pos": 17
+    },
+    {
+      "team": "PSBS Biak",
+      "team_slug": "psbs",
+      "MP": 33,
+      "W": 4,
+      "D": 6,
+      "L": 23,
+      "GF": 31,
+      "GA": 88,
+      "Pts": 18,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "home_win_rate": 17.6,
+      "away_win_rate": 6.2,
+      "goals_per_match": 0.94,
+      "xg_per_match": 0.07,
+      "avg_rating": 6.31,
+      "GD": -57,
+      "Pos": 18
+    }
+  ]
+}

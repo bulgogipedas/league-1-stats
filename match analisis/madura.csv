@@ -1,0 +1,33 @@
+﻿Date,Round,Match,Score,Venue,Opponent,Result,Avg Rating,Passes,Acc. Passes,Long Balls,Acc. Long Balls,Assists,Own Half Passes,Acc. Own Half Passes,Opp Half Passes,Acc. Opp Half Passes,Crosses,Acc. Crosses,Key Passes,Aerial Duels Lost,Aerial Duels Won,Duels Lost,Duels Won,Challenges Lost,Contests,Contests Won,Shots,Shots on Target,Shots off Target,Shots Blocked,Goals,Hit Woodwork,Big Chances Missed,xG,Clearances,Blocked Shots,Interceptions,Ball Recoveries,Tackles,Tackles Won,Errors → Shot,Dispossessed,Fouls Drawn,Fouls Committed,Offsides,Pen. Conceded,Pen. Won,Own Goals,Crosses Not Claimed,High Claims,Saves (Box),Saves,Sweeper Actions,Acc. Sweeper Actions,Touches,Unsuccessful Touches,Possession Lost
+2025-08-09,1,Madura United FC vs Persis Solo,1 - 2,Home,Persis,L,6.616666666666667,207,172,39,22,0,104,91,100,80,8,4,4,12,6,39,27,5,2,2,3,2,1,,0,,,0.41,9,2,2,39,4,2,2,,3,3,0,,,0,,,,,,,251,1,31
+2025-08-16,2,Madura United FC vs Persik Kediri,2 - 1,Away,Persik,W,6.766666666666667,114,90,26,15,0,74,62,31,22,1,0,,6,6,25,17,3,1,1,1,0,1,,0,,,0,24,5,8,36,2,1,2,,0,3,0,,,0,,,,,,,148,5,33
+2025-08-24,3,Madura United FC vs Persita Tangerang,1 - 1,Home,Persita,D,6.633333333333333,195,163,25,14,0,111,101,77,57,11,2,1,10,5,28,8,1,0,0,2,1,1,,1,,,0.86,7,0,8,26,1,1,1,1,1,5,0,1,,0,,,,,,,235,0,44
+2025-08-30,4,Madura United FC vs Bali United FC,0 - 1,Away,Bali Utd,L,6.74,94,79,15,5,0,49,44,33,24,3,1,1,4,8,22,17,6,1,1,2,0,1,1,0,1,1,0.48,15,2,14,29,3,3,0,,2,4,0,1,,0,,,,,,,129,3,29
+2025-09-12,5,Madura United FC vs Bhayangkara Presisi FC,0 - 0,Home,Bhayangkara ,D,7.16,163,142,21,11,0,90,81,69,58,6,1,1,9,16,26,20,5,0,0,2,1,1,,0,,,0.77,19,2,6,47,3,1,1,,5,4,0,,1,0,,,,,,,209,5,42
+2025-09-19,6,Madura United FC vs Malut United FC,1 - 4,Away,Malut Utd,L,6.325,130,109,23,11,0,81,73,44,31,0,0,,2,6,13,8,2,1,0,0,0,,,0,,,0,13,1,9,23,3,3,2,,1,0,0,,,0,,,,,,,158,1,32
+2025-09-25,7,Madura United FC vs PSBS Biak,0 - 0,Away,PSBS,D,6.98,198,175,22,13,0,120,111,73,61,1,1,2,7,13,30,22,2,3,1,1,0,1,,0,,,0.1,2,2,6,32,1,1,0,1,3,1,1,,,0,,,,,,,239,0,32
+2025-12-28,8,Madura United FC vs Semen Padang FC,5 - 1,Home,Semen Padang,W,6.96,196,174,24,9,1,132,127,57,41,3,2,2,3,5,25,10,3,1,1,2,2,,,1,,,0.33,10,2,7,25,2,0,1,,0,8,0,,,0,,,,,,,248,2,33
+2025-10-16,9,Madura United FC vs Dewa United FC,2 - 0,Away,Dewa Utd,W,7.04,100,74,18,7,0,55,46,31,21,3,1,1,2,3,30,12,5,2,1,2,0,,2,0,,,0.31,11,6,8,30,2,2,0,,1,1,0,,,0,,,,,,,140,2,35
+2025-10-24,10,Madura United FC vs Persija Jakarta,0 - 1,Home,Persija,L,6.7,166,145,31,19,0,96,89,64,50,4,1,1,2,9,32,19,9,1,1,2,0,2,,0,,,0.1,8,3,10,35,1,1,3,,2,4,0,,,0,,,,,,,193,2,29
+2025-11-02,11,Madura United FC vs PSM Makassar,1 - 1,Away,PSM,D,6.92,83,62,27,12,0,38,32,40,26,4,2,,4,18,29,28,4,2,2,0,0,,,0,,,0,19,5,12,35,1,1,2,1,4,2,0,,,0,,,,,,,126,3,36
+2025-11-09,12,Madura United FC vs Persijap Jepara,2 - 1,Home,Persijap,W,6.96,207,179,16,9,1,43,39,155,136,14,5,4,1,10,16,15,5,3,2,2,1,1,,1,,,0.25,9,3,7,31,3,2,0,,0,3,0,,,0,,,,,,,242,0,37
+2025-11-22,13,Madura United FC vs Borneo FC Samarinda,0 - 1,Away,Borneo,L,6.742857142857143,115,87,34,19,0,50,41,55,41,4,2,5,5,9,37,17,7,3,2,2,1,1,,0,,,0.23,16,3,10,30,2,1,1,,1,3,0,,,0,,,,,,,150,2,43
+2025-11-30,14,Madura United FC vs Persib Bandung,1 - 4,Home,Persib,L,5.975,107,94,17,9,0,66,59,40,34,4,0,,12,2,34,8,7,1,0,0,0,,,0,,,0,6,1,4,19,6,3,3,,1,5,0,,,0,,,,,,,146,0,20
+2025-12-23,15,Madura United FC vs Arema FC,2 - 2,Away,Arema,D,6.56,87,73,15,10,0,48,42,33,27,2,0,1,6,3,24,11,2,0,0,1,0,1,,0,,,0,15,3,10,32,2,1,2,,1,5,0,,,0,,,,,,,119,1,30
+2026-01-03,16,Madura United FC vs Persebaya Surabaya,0 - 1,Home,Persebaya,L,6.775,102,80,18,12,0,50,42,43,32,7,1,2,9,7,37,20,5,6,3,2,1,1,,0,1,1,0.8,15,1,10,27,2,1,0,,3,6,0,,,0,,,,,,,145,1,29
+2026-01-10,17,Madura United FC vs PSIM Yogyakarta,0 - 3,Home,PSIM,L,6.44,94,76,33,24,0,45,43,44,31,3,1,1,2,4,14,6,1,1,1,1,0,1,,0,,,0,6,4,4,21,0,0,0,,2,1,0,,,0,,,,,,,127,2,26
+2026-01-23,18,Madura United FC vs Persija Jakarta,0 - 2,Away,Persija,L,6.433333333333334,114,96,12,6,0,85,77,27,19,2,1,,1,6,14,14,5,1,0,1,0,1,,0,,,0.04,11,2,2,27,1,0,0,,2,4,0,1,,0,,,,,,,136,0,27
+2026-01-31,19,Madura United FC vs PSBS Biak,0 - 0,Home,PSBS,D,7.225,115,104,17,12,0,54,50,55,50,3,1,,3,11,24,20,5,2,1,1,0,,1,0,,,0.01,17,5,7,33,1,1,0,,1,4,0,,,0,,,,,,,157,3,18
+2026-02-07,20,Madura United FC vs Persijap Jepara,0 - 1,Away,Persijap,L,6.76,138,106,24,12,0,52,44,71,51,5,0,,9,8,24,11,2,0,0,3,0,2,1,0,,,0.18,7,2,10,33,1,1,1,1,0,1,0,,,1,,,,,,,162,0,32
+2026-02-13,21,Madura United FC vs Persis Solo,2 - 2,Away,Persis,D,6.7,70,61,13,9,0,49,45,17,14,0,0,,3,17,19,18,8,0,0,4,2,2,,0,,,0.82,24,2,4,26,1,0,3,,1,4,0,,,0,,,,,,,101,1,25
+2026-02-21,22,Madura United FC vs Arema FC,2 - 2,Home,Arema,D,6.925,117,104,20,12,0,65,63,47,37,2,1,1,8,12,28,17,8,0,0,2,2,,,1,,,0.34,14,2,9,26,1,1,0,1,0,3,0,,,0,,,,,,,157,5,25
+2026-02-26,23,Madura United FC vs Persib Bandung,0 - 5,Away,Persib,L,6.128571428571429,154,123,19,8,0,96,83,54,38,2,0,1,2,7,26,17,7,0,0,2,0,2,,0,,,0.14,18,1,3,28,3,1,1,,2,1,0,,,0,,,,,,,199,0,35
+2026-03-03,24,Madura United FC vs Malut United FC,1 - 2,Home,Malut Utd,L,,,,,,0,,,,,,,,,,,,,,,0,,,,0,,,,,,,,,,,,,,,,,0,,,,,,,,,
+2026-03-07,25,Madura United FC vs Persita Tangerang,1 - 4,Away,Persita,L,6.3,189,156,23,14,0,89,81,97,74,3,2,2,8,5,27,16,4,5,3,1,0,,1,0,,,0.01,12,1,3,29,0,0,1,1,0,0,0,,,0,,,,,,,231,0,46
+2026-04-05,26,Madura United FC vs Borneo FC Samarinda,1 - 3,Home,Borneo,L,6.72,183,147,22,12,0,76,71,98,69,15,2,1,8,10,37,23,5,8,7,6,1,3,2,0,,,0.77,6,2,7,28,4,4,0,,2,3,0,,,0,,,,,,,229,1,38
+2026-04-11,27,Madura United FC vs Persik Kediri,2 - 1,Home,Persik,W,6.68,95,73,23,12,0,57,48,36,24,5,1,,11,11,37,19,5,1,1,2,0,2,,0,,,0.11,20,1,7,34,3,1,0,,2,6,0,,,0,,,,,,,128,0,36
+2026-04-17,28,Madura United FC vs Persebaya Surabaya,2 - 1,Away,Persebaya,W,6.633333333333333,77,54,20,8,0,43,33,27,14,0,0,1,4,6,28,18,7,3,1,0,0,,,0,,,0,32,6,14,43,2,0,5,,0,1,0,,,0,,,,,,,125,3,49
+2026-04-25,29,Madura United FC vs Dewa United FC,1 - 2,Home,Dewa Utd,L,6.44,177,144,25,11,0,92,84,75,53,7,1,1,8,3,34,7,8,3,0,0,0,,,0,,,0,7,3,8,29,1,0,1,,2,0,0,,,0,,,,,,,222,2,43
+2026-04-29,30,Madura United FC vs Semen Padang FC,1 - 0,Away,Semen Padang,W,6.92,162,141,18,9,0,105,97,51,41,1,1,,4,7,24,12,5,1,1,1,0,1,,0,,,0.03,10,3,4,24,2,1,0,,0,4,0,,,0,,,,,,,190,0,27
+2026-05-05,31,Madura United FC vs Bali United FC,2 - 0,Home,Bali Utd,W,7.125,104,70,26,10,0,64,48,35,18,6,2,1,7,2,23,13,4,5,5,1,0,,1,0,,1,0.66,19,2,8,26,1,1,0,,0,2,0,,,0,,,,,,,135,1,40
+2026-05-11,32,Madura United FC vs Bhayangkara Presisi FC,1 - 3,Away,Bhayangkara,L,6.44,133,101,24,9,0,78,64,48,34,1,0,,5,2,39,16,6,3,2,4,2,1,1,0,,,0.32,16,4,13,43,0,0,0,1,1,5,0,,,0,,,,,,,181,2,39

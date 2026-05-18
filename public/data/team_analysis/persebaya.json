@@ -1,0 +1,186 @@
+[
+  {
+    "Metric": "Possession %",
+    "Team": "46.2%",
+    "League Avg": "50.0%",
+    "Rank": "12 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Poss % (Neutral / Draw)",
+    "Team": "45.2%",
+    "League Avg": "50.5%",
+    "Rank": "16 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Poss % (Home)",
+    "Team": "48.6%",
+    "League Avg": "51.5%",
+    "Rank": "12 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Poss % (Away)",
+    "Team": "43.9%",
+    "League Avg": "48.6%",
+    "Rank": "14 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Pass Accuracy %",
+    "Team": "78.3%",
+    "League Avg": "81.5%",
+    "Rank": "17 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Direct Play %",
+    "Team": "15.2%",
+    "League Avg": "12.1%",
+    "Rank": "2 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Direct % (When Losing)",
+    "Team": "15.0%",
+    "League Avg": "11.9%",
+    "Rank": "1 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Territory %",
+    "Team": "52.4%",
+    "League Avg": "52.4%",
+    "Rank": "8 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Avg Shots",
+    "Team": "12.031",
+    "League Avg": "12.346",
+    "Rank": "7 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Avg xG",
+    "Team": "1.539",
+    "League Avg": "1.434",
+    "Rank": "6 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "xG per Shot",
+    "Team": "0.132",
+    "League Avg": "0.115",
+    "Rank": "4 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Key Passes / Shot",
+    "Team": "0.606",
+    "League Avg": "0.627",
+    "Rank": "12 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Cross / Shot",
+    "Team": "1.130",
+    "League Avg": "1.282",
+    "Rank": "16 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Shot Dominance",
+    "Team": "1.206",
+    "League Avg": "1.330",
+    "Rank": "8 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "xG Dominance",
+    "Team": "1.560",
+    "League Avg": "2.099",
+    "Rank": "11 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Proactive Defense %",
+    "Team": "16.2%",
+    "League Avg": "16.7%",
+    "Rank": "11 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Step-Out Ratio %",
+    "Team": "17.2%",
+    "League Avg": "18.2%",
+    "Rank": "11 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Def. Actions / Opp. Shot",
+    "Team": "3.022",
+    "League Avg": "3.150",
+    "Rank": "9 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Aerial Tendency %",
+    "Team": "17.6%",
+    "League Avg": "16.8%",
+    "Rank": "4 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Aerial Win Rate %",
+    "Team": "42.1%",
+    "League Avg": "46.3%",
+    "Rank": "17 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Duels per Match",
+    "Team": "139.125",
+    "League Avg": "137.085",
+    "Rank": "7 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Shots (Winning)",
+    "Team": "13.214",
+    "League Avg": "13.326",
+    "Rank": "9 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  },
+  {
+    "Metric": "Shots (Losing)",
+    "Team": "11.875",
+    "League Avg": "11.311",
+    "Rank": "9 / 18",
+    "team": "Persebaya",
+    "team_slug": "persebaya"
+  }
+]

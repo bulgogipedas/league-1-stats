@@ -1,0 +1,186 @@
+[
+  {
+    "Metric": "Possession %",
+    "Team": "48.6%",
+    "League Avg": "50.0%",
+    "Rank": "10 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Poss % (Neutral / Draw)",
+    "Team": "53.1%",
+    "League Avg": "50.5%",
+    "Rank": "7 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Poss % (Home)",
+    "Team": "50.9%",
+    "League Avg": "51.5%",
+    "Rank": "10 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Poss % (Away)",
+    "Team": "46.4%",
+    "League Avg": "48.6%",
+    "Rank": "11 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Pass Accuracy %",
+    "Team": "81.5%",
+    "League Avg": "81.5%",
+    "Rank": "9 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Direct Play %",
+    "Team": "11.9%",
+    "League Avg": "12.1%",
+    "Rank": "10 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Direct % (When Losing)",
+    "Team": "12.2%",
+    "League Avg": "11.9%",
+    "Rank": "8 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Territory %",
+    "Team": "48.9%",
+    "League Avg": "52.4%",
+    "Rank": "15 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Avg Shots",
+    "Team": "11.094",
+    "League Avg": "12.346",
+    "Rank": "14 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Avg xG",
+    "Team": "1.110",
+    "League Avg": "1.434",
+    "Rank": "17 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "xG per Shot",
+    "Team": "0.093",
+    "League Avg": "0.115",
+    "Rank": "16 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Key Passes / Shot",
+    "Team": "0.600",
+    "League Avg": "0.627",
+    "Rank": "15 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Cross / Shot",
+    "Team": "1.690",
+    "League Avg": "1.282",
+    "Rank": "1 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Shot Dominance",
+    "Team": "0.968",
+    "League Avg": "1.330",
+    "Rank": "16 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "xG Dominance",
+    "Team": "0.933",
+    "League Avg": "2.099",
+    "Rank": "17 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Proactive Defense %",
+    "Team": "16.7%",
+    "League Avg": "16.7%",
+    "Rank": "6 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Step-Out Ratio %",
+    "Team": "19.4%",
+    "League Avg": "18.2%",
+    "Rank": "6 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Def. Actions / Opp. Shot",
+    "Team": "2.795",
+    "League Avg": "3.150",
+    "Rank": "14 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Aerial Tendency %",
+    "Team": "16.5%",
+    "League Avg": "16.8%",
+    "Rank": "10 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Aerial Win Rate %",
+    "Team": "44.6%",
+    "League Avg": "46.3%",
+    "Rank": "14 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Duels per Match",
+    "Team": "133.375",
+    "League Avg": "137.085",
+    "Rank": "13 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Shots (Winning)",
+    "Team": "11.400",
+    "League Avg": "13.326",
+    "Rank": "16 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  },
+  {
+    "Metric": "Shots (Losing)",
+    "Team": "10.727",
+    "League Avg": "11.311",
+    "Rank": "13 / 18",
+    "team": "Semen Padang",
+    "team_slug": "semen-padang"
+  }
+]

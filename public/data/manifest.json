@@ -1,0 +1,82 @@
+{
+  "teams": [
+    {
+      "slug": "arema",
+      "name": "Arema FC"
+    },
+    {
+      "slug": "bali",
+      "name": "Bali United"
+    },
+    {
+      "slug": "bhayangkara",
+      "name": "Bhayangkara"
+    },
+    {
+      "slug": "borneo",
+      "name": "Borneo FC"
+    },
+    {
+      "slug": "dewa",
+      "name": "Dewa United"
+    },
+    {
+      "slug": "madura",
+      "name": "Madura United"
+    },
+    {
+      "slug": "malut",
+      "name": "Malut United"
+    },
+    {
+      "slug": "persebaya",
+      "name": "Persebaya"
+    },
+    {
+      "slug": "persib",
+      "name": "Persib Bandung"
+    },
+    {
+      "slug": "persija",
+      "name": "Persija Jakarta"
+    },
+    {
+      "slug": "persijap",
+      "name": "Persijap Jepara"
+    },
+    {
+      "slug": "persik",
+      "name": "Persik Kediri"
+    },
+    {
+      "slug": "persis",
+      "name": "Persis Solo"
+    },
+    {
+      "slug": "persita",
+      "name": "Persita Tangerang"
+    },
+    {
+      "slug": "psbs",
+      "name": "PSBS Biak"
+    },
+    {
+      "slug": "psim",
+      "name": "PSIM Yogyakarta"
+    },
+    {
+      "slug": "psm",
+      "name": "PSM Makassar"
+    },
+    {
+      "slug": "semen-padang",
+      "name": "Semen Padang"
+    }
+  ],
+  "position_labels": {
+    "D": "Defender",
+    "M": "Midfielder",
+    "F": "Forward",
+    "G": "Goalkeeper"
+  }
+}
