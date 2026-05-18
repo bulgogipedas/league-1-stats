@@ -11,6 +11,7 @@ The app is designed as a static-first analytics product: by default it reads pre
 - Backend: optional local Bun API with PostgreSQL support.
 - Data freshness: available match files run until `15 May 2026`.
 - AI analysis: automatic per selection. Uses Hugging Face only when `VITE_HF_TOKEN` is configured, otherwise local fallback text is shown.
+- Theme: first visit follows the user's system preference, then the navbar toggle switches only between dark and light.
 - Logos: remote links from Football Logos are stored in `src/data/teamLogos.js`.
 
 ## Production Readiness Audit
@@ -25,6 +26,10 @@ The app is designed as a static-first analytics product: by default it reads pre
 | Build output | Ignored | `dist`, `node_modules`, local env files, logs, and macOS files are ignored. |
 | Data quality | Documented | Official standings are synced in preprocessing. Player counting stats from per-90 source are estimated totals. |
 | Bundle size | Follow-up | Build passes, but Vite warns that the main JS chunk is above 500 kB. Code splitting is a good next production improvement. |
+
+## Public Data Notice
+
+The current production build is static, so JSON under `public/data` is delivered to the browser. `robots.txt` and Vercel `X-Robots-Tag` headers discourage search engines from indexing those raw files, but they do not prevent a determined user from inspecting network requests or scraping visible data. To make data genuinely private or harder to extract at scale, move raw datasets out of `public/data` and serve only scoped, aggregated API responses with rate limiting, bot protection, and optional authentication.
 
 ## Tech Stack
 

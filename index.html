@@ -9,10 +9,14 @@
     <title>PunditStat</title>
     <script>
       (() => {
-        const stored = localStorage.getItem("punditstat-theme") || "system";
-        const dark = stored === "dark" || (stored === "system" && window.matchMedia("(prefers-color-scheme: dark)").matches);
-        document.documentElement.classList.toggle("dark", dark);
-        document.documentElement.dataset.theme = stored;
+        const stored = localStorage.getItem("punditstat-theme");
+        const theme = stored === "dark" || stored === "light"
+          ? stored
+          : window.matchMedia("(prefers-color-scheme: dark)").matches
+            ? "dark"
+            : "light";
+        document.documentElement.classList.toggle("dark", theme === "dark");
+        document.documentElement.dataset.theme = theme;
       })();
     </script>
   </head>

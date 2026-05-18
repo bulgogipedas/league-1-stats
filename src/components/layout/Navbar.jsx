@@ -1,4 +1,4 @@
-import { Activity, ClipboardList, LayoutDashboard, Map, Monitor, Moon, Shield, Sun } from "lucide-react";
+import { Activity, ClipboardList, LayoutDashboard, Map, Moon, Shield, Sun } from "lucide-react";
 import { NavLink } from "react-router-dom";
 import { leagueLogo } from "../../data/teamLogos.js";
 import { useThemeStore } from "../../data/themeStore.js";
@@ -13,8 +13,8 @@ const links = [
 
 export default function Navbar() {
   const { mode, resolved, cycle } = useThemeStore();
-  const ThemeIcon = mode === "system" ? Monitor : resolved === "dark" ? Moon : Sun;
-  const themeLabel = mode === "system" ? `System theme, currently ${resolved}` : `${mode} theme`;
+  const ThemeIcon = resolved === "dark" ? Moon : Sun;
+  const nextTheme = mode === "dark" ? "light" : "dark";
 
   return (
     <>
@@ -49,7 +49,7 @@ export default function Navbar() {
               type="button"
               onClick={cycle}
               className="grid h-9 w-9 place-items-center border border-border bg-panel text-muted transition hover:border-teal hover:text-text"
-              aria-label={`Toggle theme. Current: ${themeLabel}`}
+              aria-label={`Switch to ${nextTheme} theme`}
               title={`Theme: ${mode}`}
             >
               <ThemeIcon className="h-4 w-4" />
