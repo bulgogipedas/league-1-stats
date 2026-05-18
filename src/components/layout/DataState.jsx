@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import { useLeagueData } from "../../data/useLeagueData.js";
+import ErrorMessage from "../ui/ErrorMessage.jsx";
 import Skeleton from "../ui/Skeleton.jsx";
 
 export default function DataState({ children }) {
@@ -16,7 +17,7 @@ export default function DataState({ children }) {
       </div>
     );
   }
-  if (error) return <div className="border border-loss bg-white p-4 text-loss">{error.message}</div>;
+  if (error) return <ErrorMessage error={error} context="data" onRetry={load} />;
   return (
     <>
       <div className="mb-5 border border-border bg-panel px-4 py-3 text-sm text-muted">

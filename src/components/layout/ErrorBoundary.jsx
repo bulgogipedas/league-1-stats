@@ -1,4 +1,5 @@
 import React from "react";
+import ErrorMessage from "../ui/ErrorMessage.jsx";
 
 export default class ErrorBoundary extends React.Component {
   constructor(props) {
@@ -12,12 +13,7 @@ export default class ErrorBoundary extends React.Component {
 
   render() {
     if (this.state.error) {
-      return (
-        <section className="border border-loss bg-white p-6">
-          <h1 className="text-lg font-semibold text-loss">Dashboard error</h1>
-          <p className="mt-2 text-sm text-muted">{this.state.error.message}</p>
-        </section>
-      );
+      return <ErrorMessage error={this.state.error} context="dashboard" onRetry={() => window.location.reload()} />;
     }
     return this.props.children;
   }

@@ -31,7 +31,10 @@ export default function useAIAnalysis(systemPrompt, buildPrompt, fallback) {
           ],
         }),
       });
-      if (!apiResponse.ok) throw new Error(`Hugging Face request failed: ${apiResponse.status}`);
+      if (!apiResponse.ok) {
+        const errorText = await apiResponse.text();
+        throw new Error(`Hugging Face request failed: ${apiResponse.status}. ${errorText.slice(0, 180)}`);
+      }
       const json = await apiResponse.json();
       setResponse(json.choices?.[0]?.message?.content || "No analysis returned.");
     } catch (err) {

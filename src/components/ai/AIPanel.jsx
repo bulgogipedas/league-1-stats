@@ -1,6 +1,7 @@
 import { useEffect, useMemo } from "react";
 import { Bot } from "lucide-react";
 import Card from "../ui/Card.jsx";
+import ErrorMessage from "../ui/ErrorMessage.jsx";
 import Skeleton from "../ui/Skeleton.jsx";
 import useAIAnalysis from "./useAIAnalysis.js";
 
@@ -15,14 +16,7 @@ export default function AIPanel({ title, systemPrompt, buildPrompt, data, fallba
   return (
     <Card title={title} kicker="AI Analysis">
       {loading && <Skeleton className="h-32" />}
-      {error && (
-        <div className="border border-loss bg-white p-3 text-sm text-loss">
-          {error}
-          <button type="button" onClick={() => generate(data)} className="ml-3 font-semibold text-text underline">
-            Retry
-          </button>
-        </div>
-      )}
+      {error && <ErrorMessage error={error} context="ai" onRetry={() => generate(data)} compact />}
       {!loading && !error && response && (
         <div className="border border-border bg-panel p-4">
           <div className="mb-3 flex items-center gap-2 text-sm font-semibold text-text">
