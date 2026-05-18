@@ -52,8 +52,8 @@ function PlayerContent() {
   const compare = players.find((player) => `${player.Player}|${player.Team}` === compareKey);
   const samePos = players.filter((player) => player.Pos === active?.Pos);
   const radarSeries = active ? [
-    { name: active.Player, color: "#0F62FE", values: Object.fromEntries(axes.map((axis) => [axis, Number(active[axis] || 0)])) },
-    ...(compare ? [{ name: compare.Player, color: "#8D8D8D", values: Object.fromEntries(axes.map((axis) => [axis, Number(compare[axis] || 0)])) }] : []),
+    { name: active.Player, color: "var(--chart-blue)", values: Object.fromEntries(axes.map((axis) => [axis, Number(active[axis] || 0)])) },
+    ...(compare ? [{ name: compare.Player, color: "var(--chart-neutral)", values: Object.fromEntries(axes.map((axis) => [axis, Number(compare[axis] || 0)])) }] : []),
   ] : [];
   const metricList = metricsByPos[active?.Pos] || metricsByPos.M;
   const comparisonMetrics = [...new Set(["Min", "MP", "Overall", ...axes, ...metricList])];
@@ -144,7 +144,7 @@ function PlayerContent() {
                         key={key}
                         type="button"
                         onClick={() => setCompareKey(key)}
-                        className={`border p-3 text-left text-sm transition hover:border-teal hover:bg-panel ${compareKey === key ? "border-teal bg-panel" : "border-border bg-white"}`}
+                        className={`border p-3 text-left text-sm transition hover:border-teal hover:bg-panel ${compareKey === key ? "border-teal bg-panel" : "border-border bg-card"}`}
                       >
                         <span className="block font-semibold">{player.Player}</span>
                         <span className="block text-xs text-muted">{player.Team}, {number(player.Min)} minutes</span>

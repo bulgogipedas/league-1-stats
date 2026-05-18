@@ -27,7 +27,7 @@ export default function ComboBox({ label, value, onChange, options, placeholder 
         <Search className="h-4 w-4 text-muted" />
       </button>
       {open && (
-        <div className="absolute z-50 mt-1 w-full border border-border bg-white">
+        <div className="absolute z-50 mt-1 w-full border border-border bg-card">
           <div className="flex items-center border-b border-border bg-panel px-3">
             <Search className="h-4 w-4 text-muted" />
             <input
@@ -54,7 +54,7 @@ export default function ComboBox({ label, value, onChange, options, placeholder 
                   setOpen(false);
                   setQuery("");
                 }}
-                className={`block w-full border-b border-border px-3 py-3 text-left text-sm hover:bg-panel ${option.value === value ? "bg-panel" : "bg-white"}`}
+                className={`block w-full border-b border-border px-3 py-3 text-left text-sm hover:bg-panel ${option.value === value ? "bg-panel" : "bg-card"}`}
               >
                 <span className="block text-text">{option.label}</span>
                 {option.meta && <span className="block text-xs text-muted">{option.meta}</span>}

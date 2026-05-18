@@ -1,10 +1,10 @@
 const tones = {
-  W: "border-win bg-white text-win",
-  D: "border-draw bg-white text-draw",
-  L: "border-loss bg-white text-loss",
-  teal: "border-teal bg-white text-teal",
-  amber: "border-amber bg-white text-text",
-  muted: "border-border bg-white text-muted",
+  W: "border-win bg-card text-win",
+  D: "border-draw bg-card text-draw",
+  L: "border-loss bg-card text-loss",
+  teal: "border-teal bg-card text-teal",
+  amber: "border-amber bg-card text-text",
+  muted: "border-border bg-card text-muted",
 };
 
 export default function Badge({ children, tone = "muted" }) {

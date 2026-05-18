@@ -34,7 +34,7 @@ function MatchContent() {
   const passTrend = teamMatches.map((row) => ({ round: row.round_number, accuracy: row.pass_accuracy_pct }));
   const radar = selected ? [{
     name: selected.team,
-    color: "#0F62FE",
+    color: "var(--chart-blue)",
     values: {
       Attacking: Math.min(100, (Number(selected.Shots || 0) + Number(selected.xG || 0) * 8) * 3),
       Passing: selected.pass_accuracy_pct,
@@ -61,7 +61,7 @@ function MatchContent() {
         </div>
         <div className="mt-4 grid gap-3 md:grid-cols-2 xl:grid-cols-4">
           {filtered.map((row) => (
-            <button key={row.match_id} type="button" onClick={() => setSelectedId(row.match_id)} className={`min-h-24 border p-3 text-left ${selected?.match_id === row.match_id ? "border-teal bg-white text-text" : "border-border bg-panel"}`}>
+            <button key={row.match_id} type="button" onClick={() => setSelectedId(row.match_id)} className={`min-h-24 border p-3 text-left ${selected?.match_id === row.match_id ? "border-teal bg-card text-text" : "border-border bg-panel"}`}>
               <div className="flex items-center justify-between"><span className="text-sm font-semibold">{row.Score}</span><Badge tone={resultTone(row.Result)}>{resultLabel(row.Result)}</Badge></div>
               <p className="mt-2 text-sm">{row.team} vs {row.Opponent}</p>
               <p className="mt-1 text-xs text-muted">Rating {number(row["Avg Rating"], 2)}, xG {number(row.xG, 2)}</p>
@@ -83,7 +83,7 @@ function MatchContent() {
           <div className="mt-4 grid gap-4 xl:grid-cols-3">
             <Card title="xG timeline" kicker="Season view"><LineChart series={xgSeries} /><ChartNote>Visualization: match-by-match line chart. Hover points for exact xG.</ChartNote></Card>
             <Card title="Passing Accuracy Trend" kicker="Percentage">
-              <div className="h-[300px]"><ResponsiveContainer><ReLineChart data={passTrend}><XAxis dataKey="round" stroke="#525252" /><YAxis stroke="#525252" /><Tooltip contentStyle={{ background: "#FFFFFF", border: "1px solid #E0E0E0", color: "#161616" }} /><Line type="monotone" dataKey="accuracy" stroke="#0F62FE" strokeWidth={2} dot /></ReLineChart></ResponsiveContainer></div>
+              <div className="h-[300px]"><ResponsiveContainer><ReLineChart data={passTrend}><XAxis dataKey="round" stroke="var(--text-secondary)" /><YAxis stroke="var(--text-secondary)" /><Tooltip contentStyle={{ background: "var(--chart-tooltip-bg)", border: "1px solid var(--border)", color: "var(--chart-tooltip-text)" }} /><Line type="monotone" dataKey="accuracy" stroke="var(--chart-blue)" strokeWidth={2} dot /></ReLineChart></ResponsiveContainer></div>
             </Card>
             <Card title="Result Distribution" kicker="Season"><DonutChart data={resultData} /></Card>
           </div>

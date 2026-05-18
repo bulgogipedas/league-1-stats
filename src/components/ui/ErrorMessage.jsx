@@ -7,7 +7,7 @@ export default function ErrorMessage({ error, context = "dashboard", onRetry, co
   const rawMessage = typeof error === "string" ? error : error?.message;
 
   return (
-    <section className={`border border-loss bg-white ${compact ? "p-4" : "p-4 sm:p-6"}`} role="alert" aria-live="polite">
+    <section className={`border border-loss bg-card ${compact ? "p-4" : "p-4 sm:p-6"}`} role="alert" aria-live="polite">
       <div className="flex items-start gap-3">
         <span className="grid h-10 w-10 shrink-0 place-items-center border border-loss bg-panel text-loss">
           <Icon className="h-5 w-5" />
@@ -27,7 +27,7 @@ export default function ErrorMessage({ error, context = "dashboard", onRetry, co
             <button
               type="button"
               onClick={onRetry}
-              className="mt-4 inline-flex min-h-11 items-center gap-2 border border-border bg-panel px-4 py-2 text-sm font-semibold hover:border-teal hover:bg-white"
+              className="mt-4 inline-flex min-h-11 items-center gap-2 border border-border bg-panel px-4 py-2 text-sm font-semibold hover:border-teal hover:bg-card"
             >
               <RefreshCw className="h-4 w-4" />
               Try again

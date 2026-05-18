@@ -10,7 +10,7 @@ export default function DonutChart({ data, height = 280 }) {
   const radius = Math.min(width, height) / 2 - 18;
   const pie = d3.pie().value((d) => d.value)(data);
   const arc = d3.arc().innerRadius(radius * 0.58).outerRadius(radius);
-  const colors = { W: "#24A148", Wins: "#24A148", D: "#8D8D8D", Draws: "#8D8D8D", L: "#DA1E28", Loses: "#DA1E28", Losses: "#DA1E28" };
+  const colors = { W: "var(--win)", Wins: "var(--win)", D: "var(--draw)", Draws: "var(--draw)", L: "var(--loss)", Loses: "var(--loss)", Losses: "var(--loss)" };
   return (
     <div ref={ref} className="relative w-full">
       <svg width={width} height={height} role="img" aria-label="Result distribution" onMouseLeave={() => setTooltip(null)}>

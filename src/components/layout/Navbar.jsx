@@ -1,6 +1,7 @@
-import { Activity, ClipboardList, LayoutDashboard, Map, Shield } from "lucide-react";
+import { Activity, ClipboardList, LayoutDashboard, Map, Monitor, Moon, Shield, Sun } from "lucide-react";
 import { NavLink } from "react-router-dom";
 import { leagueLogo } from "../../data/teamLogos.js";
+import { useThemeStore } from "../../data/themeStore.js";
 
 const links = [
   { to: "/overview", label: "Overview", icon: LayoutDashboard },
@@ -11,34 +12,49 @@ const links = [
 ];
 
 export default function Navbar() {
+  const { mode, resolved, cycle } = useThemeStore();
+  const ThemeIcon = mode === "system" ? Monitor : resolved === "dark" ? Moon : Sun;
+  const themeLabel = mode === "system" ? `System theme, currently ${resolved}` : `${mode} theme`;
+
   return (
     <>
       <header className="fixed inset-x-0 top-0 z-40 border-b border-border bg-bg">
         <div className="mx-auto flex h-12 max-w-[1584px] items-center justify-between px-3 sm:px-6 lg:px-8">
           <NavLink to="/overview" className="flex items-center gap-3" aria-label="Liga 1 Analytics overview">
-            <span className="grid h-8 w-8 place-items-center border border-border bg-white">
+            <span className="grid h-8 w-8 place-items-center border border-border bg-card">
               <img src={leagueLogo.image} alt="Liga 1 logo" className="h-7 w-7 object-contain p-0.5" />
             </span>
             <span>
               <span className="block text-sm font-semibold text-text">PunditStat</span>
             </span>
           </NavLink>
-          <nav className="hidden items-center gap-1 md:flex" aria-label="Primary navigation">
-            {links.map(({ to, label, icon: Icon }) => (
-              <NavLink
-                key={to}
-                to={to}
-                className={({ isActive }) =>
-                  `flex h-12 items-center gap-2 border-b-2 px-4 text-sm transition ${
-                    isActive ? "border-teal bg-panel text-text" : "border-transparent text-muted hover:bg-panel hover:text-text"
-                  }`
-                }
-              >
-                <Icon className="h-4 w-4" />
-                {label}
-              </NavLink>
-            ))}
-          </nav>
+          <div className="flex items-center gap-2">
+            <nav className="hidden items-center gap-1 md:flex" aria-label="Primary navigation">
+              {links.map(({ to, label, icon: Icon }) => (
+                <NavLink
+                  key={to}
+                  to={to}
+                  className={({ isActive }) =>
+                    `flex h-12 items-center gap-2 border-b-2 px-4 text-sm transition ${
+                      isActive ? "border-teal bg-panel text-text" : "border-transparent text-muted hover:bg-panel hover:text-text"
+                    }`
+                  }
+                >
+                  <Icon className="h-4 w-4" />
+                  {label}
+                </NavLink>
+              ))}
+            </nav>
+            <button
+              type="button"
+              onClick={cycle}
+              className="grid h-9 w-9 place-items-center border border-border bg-panel text-muted transition hover:border-teal hover:text-text"
+              aria-label={`Toggle theme. Current: ${themeLabel}`}
+              title={`Theme: ${mode}`}
+            >
+              <ThemeIcon className="h-4 w-4" />
+            </button>
+          </div>
         </div>
       </header>
       <nav className="fixed inset-x-0 bottom-0 z-40 grid grid-cols-5 border-t border-border bg-bg md:hidden" aria-label="Mobile navigation">

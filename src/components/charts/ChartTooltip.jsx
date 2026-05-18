@@ -2,7 +2,7 @@ export default function ChartTooltip({ tooltip }) {
   if (!tooltip) return null;
   return (
     <div
-      className="pointer-events-none absolute z-30 min-w-40 border border-border bg-white px-3 py-2 text-xs shadow-sm"
+      className="pointer-events-none absolute z-30 min-w-40 border border-border bg-card px-3 py-2 text-xs shadow-sm"
       style={{ left: tooltip.x + 12, top: tooltip.y + 12 }}
     >
       <p className="font-semibold text-text">{tooltip.title}</p>

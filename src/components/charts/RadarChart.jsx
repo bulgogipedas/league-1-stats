@@ -16,7 +16,7 @@ export default function RadarChart({ axes, series, height = 340 }) {
       <svg width={width} height={height} role="img" aria-label="Radar chart" onMouseLeave={() => setTooltip(null)}>
         <g transform={`translate(${center.x},${center.y})`}>
           {[25, 50, 75, 100].map((ring) => (
-            <circle key={ring} r={radius * (ring / 100)} fill="none" stroke="#E0E0E0" />
+            <circle key={ring} r={radius * (ring / 100)} fill="none" stroke="var(--chart-grid)" />
           ))}
           {axes.map((axis) => {
             const a = angle(axis) - Math.PI / 2;
@@ -25,7 +25,7 @@ export default function RadarChart({ axes, series, height = 340 }) {
             const anchor = Math.abs(Math.cos(a)) < 0.25 ? "middle" : Math.cos(a) > 0 ? "start" : "end";
             return (
               <g key={axis}>
-                <line x1="0" y1="0" x2={Math.cos(a) * radius} y2={Math.sin(a) * radius} stroke="#E0E0E0" />
+                <line x1="0" y1="0" x2={Math.cos(a) * radius} y2={Math.sin(a) * radius} stroke="var(--chart-grid)" />
                 <text x={labelX} y={labelY} textAnchor={anchor} dominantBaseline="middle" className="fill-muted text-[10px]">
                   {axis.length > 12 ? axis.split(" ").map((word, index) => <tspan key={word} x={labelX} dy={index ? 11 : 0}>{word}</tspan>) : axis}
                 </text>

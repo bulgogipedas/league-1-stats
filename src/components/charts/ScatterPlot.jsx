@@ -16,7 +16,7 @@ export default function ScatterPlot({ data, xKey, yKey, selected, height = 330 }
         {x.ticks(5).map((tick) => <text key={tick} x={x(tick)} y={height - 14} textAnchor="middle" className="fill-muted text-[10px]">{tick}</text>)}
         {y.ticks(5).map((tick) => (
           <g key={tick}>
-            <line x1={margin.left} x2={width - margin.right} y1={y(tick)} y2={y(tick)} stroke="#E0E0E0" />
+            <line x1={margin.left} x2={width - margin.right} y1={y(tick)} y2={y(tick)} stroke="var(--chart-grid)" />
             <text x={margin.left - 8} y={y(tick) + 4} textAnchor="end" className="fill-muted text-[10px]">{tick}</text>
           </g>
         ))}
@@ -28,7 +28,7 @@ export default function ScatterPlot({ data, xKey, yKey, selected, height = 330 }
                 cx={x(row[xKey])}
                 cy={y(row[yKey])}
                 r={active ? 8 : 6}
-                fill={active ? "#0F62FE" : "#8D8D8D"}
+                fill={active ? "var(--chart-blue)" : "var(--chart-neutral)"}
                 opacity={active ? 1 : 0.7}
                 onMouseMove={(event) => setTooltip({
                   x: event.nativeEvent.offsetX,

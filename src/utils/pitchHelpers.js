@@ -1,8 +1,8 @@
 export const positionColors = {
   G: "#F1C21B",
-  D: "#002D9C",
-  M: "#0F62FE",
-  F: "#DA1E28",
+  D: "var(--chart-blue-strong)",
+  M: "var(--chart-blue)",
+  F: "var(--loss)",
 };
 
 export function formationSlots(formation = "4-3-3") {

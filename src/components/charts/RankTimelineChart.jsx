@@ -11,7 +11,7 @@ export default function RankTimelineChart({ series, height = 340 }) {
   const all = series.flatMap((item) => item.values);
   const x = d3.scaleLinear().domain(d3.extent(all, (d) => d.week)).nice().range([margin.left, width - margin.right]);
   const y = d3.scaleLinear().domain([1, 18]).range([margin.top, height - margin.bottom]);
-  const color = d3.scaleOrdinal().domain(series.map((item) => item.name)).range(["#0F62FE", "#002D9C", "#4589FF", "#525252", "#8D8D8D", "#24A148", "#DA1E28", "#F1C21B"]);
+  const color = d3.scaleOrdinal().domain(series.map((item) => item.name)).range(["var(--chart-blue)", "var(--chart-blue-strong)", "var(--chart-blue-soft)", "var(--text-secondary)", "var(--chart-neutral)", "var(--win)", "var(--loss)", "var(--accent-secondary)"]);
   const line = d3.line().x((d) => x(d.week)).y((d) => y(d.rank)).curve(d3.curveMonotoneX);
 
   return (
@@ -19,7 +19,7 @@ export default function RankTimelineChart({ series, height = 340 }) {
       <svg width={width} height={height} role="img" aria-label="Table rank timeline" onMouseLeave={() => setTooltip(null)}>
         {[1, 3, 6, 9, 12, 15, 18].map((tick) => (
           <g key={tick}>
-            <line x1={margin.left} x2={width - margin.right} y1={y(tick)} y2={y(tick)} stroke="#E0E0E0" />
+            <line x1={margin.left} x2={width - margin.right} y1={y(tick)} y2={y(tick)} stroke="var(--chart-grid)" />
             <text x={margin.left - 8} y={y(tick) + 4} textAnchor="end" className="fill-muted text-[10px]">{tick}</text>
           </g>
         ))}

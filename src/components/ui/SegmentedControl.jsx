@@ -8,7 +8,7 @@ export default function SegmentedControl({ label, value, onChange, options }) {
             key={option.value}
             type="button"
             onClick={() => onChange(option.value)}
-            className={`border-r border-border px-3 py-2 text-sm last:border-r-0 ${value === option.value ? "bg-strong text-white" : "bg-panel text-text hover:bg-white"}`}
+            className={`border-r border-border px-3 py-2 text-sm last:border-r-0 ${value === option.value ? "bg-strong text-bg" : "bg-panel text-text hover:bg-card"}`}
           >
             {option.label}
           </button>

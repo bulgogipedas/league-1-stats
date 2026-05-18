@@ -129,7 +129,7 @@ function OverviewContent() {
           <ChartNote>Visualization: multi-series cumulative line chart. Hover each point for team, week, and cumulative goals.</ChartNote>
         </Card>
         <Card title="Home vs away performance" kicker="Grouped bar chart, win rate">
-          <GroupedBarChart data={homeAway} keys={["Home", "Away"]} colors={["#0F62FE", "#8D8D8D"]} />
+          <GroupedBarChart data={homeAway} keys={["Home", "Away"]} />
           <ChartNote>Visualization: grouped categorical bar chart. This compares venue splits by team, not total points.</ChartNote>
         </Card>
       </div>

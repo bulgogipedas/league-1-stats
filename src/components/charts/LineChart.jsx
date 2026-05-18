@@ -15,7 +15,7 @@ export default function LineChart({ series, xKey = "x", yKey = "y", height = 320
     .domain(yDomain || [0, d3.max(all, (d) => Number(d[yKey])) || 1])
     .nice()
     .range(yReverse ? [margin.top, h - margin.bottom] : [h - margin.bottom, margin.top]);
-  const color = d3.scaleOrdinal().domain(series.map((item) => item.name)).range(["#0F62FE", "#002D9C", "#4589FF", "#525252", "#8D8D8D", "#24A148", "#DA1E28"]);
+  const color = d3.scaleOrdinal().domain(series.map((item) => item.name)).range(["var(--chart-blue)", "var(--chart-blue-strong)", "var(--chart-blue-soft)", "var(--text-secondary)", "var(--chart-neutral)", "var(--win)", "var(--loss)"]);
   const line = d3.line().x((d) => x(Number(d[xKey]))).y((d) => y(Number(d[yKey]))).curve(d3.curveMonotoneX);
   const xTicks = x.ticks(6);
   const yTicks = y.ticks(5);
@@ -24,7 +24,7 @@ export default function LineChart({ series, xKey = "x", yKey = "y", height = 320
       <svg width={width} height={h} role="img" aria-label="Line chart" onMouseLeave={() => setTooltip(null)}>
         {yTicks.map((tick) => (
           <g key={tick}>
-            <line x1={margin.left} x2={width - margin.right} y1={y(tick)} y2={y(tick)} stroke="#E0E0E0" />
+            <line x1={margin.left} x2={width - margin.right} y1={y(tick)} y2={y(tick)} stroke="var(--chart-grid)" />
             <text x={margin.left - 8} y={y(tick) + 4} textAnchor="end" className="fill-muted text-[10px]">{tick}</text>
           </g>
         ))}

@@ -103,7 +103,7 @@ function FormationContent() {
         <StatCard label="Own goals" value={number(setPieces.ownGoals)} />
       </div>
       <div className="mt-4 grid gap-4 xl:grid-cols-3">
-        <Card title="Attacking direction" kicker="Approximated distribution"><GroupedBarChart data={attackDirection} keys={["Value"]} colors={["#0F62FE"]} /><ChartNote>Visualization: categorical bar chart, estimated from available passing and crossing proxies.</ChartNote></Card>
+        <Card title="Attacking direction" kicker="Approximated distribution"><GroupedBarChart data={attackDirection} keys={["Value"]} colors={["var(--chart-blue)"]} /><ChartNote>Visualization: categorical bar chart, estimated from available passing and crossing proxies.</ChartNote></Card>
         <Card title="Pressing intensity" kicker="Tackles plus interceptions"><LineChart series={pressing} /><ChartNote>Visualization: proxy trend line. Higher values mean more defensive actions, not official PPDA.</ChartNote></Card>
         <Card title="Cross analysis" kicker="Attempted vs accurate"><LineChart series={crosses} /><ChartNote>Visualization: two-series line chart. Hover points for attempted and accurate crosses by round.</ChartNote></Card>
       </div>

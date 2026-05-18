@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap");
 
 :root {
+  color-scheme: light;
   --bg-primary: #ffffff;
   --bg-secondary: #f4f4f4;
   --bg-card: #ffffff;
@@ -17,4 +18,24 @@
   --loss: #da1e28;
   --pitch-green: #f4f4f4;
   --pitch-lines: #c6c6c6;
+}
+
+:root.dark {
+  color-scheme: dark;
+  --bg-primary: #0d1117;
+  --bg-secondary: #161b22;
+  --bg-card: #1c2128;
+  --border: #30363d;
+  --border-strong: #e6edf3;
+  --accent-primary: #2dd4bf;
+  --accent-hover: #14b8a6;
+  --accent-secondary: #f59e0b;
+  --text-primary: #e6edf3;
+  --text-secondary: #8b949e;
+  --text-subtle: #6e7681;
+  --win: #22c55e;
+  --draw: #94a3b8;
+  --loss: #ef4444;
+  --pitch-green: #1a3a2a;
+  --pitch-lines: #2d5a3d;
 }

@@ -1,8 +1,15 @@
 import { Outlet } from "react-router-dom";
+import { useEffect } from "react";
 import Navbar from "./components/layout/Navbar.jsx";
 import ErrorBoundary from "./components/layout/ErrorBoundary.jsx";
+import { useThemeStore } from "./data/themeStore.js";
 
 export default function App() {
+  const initTheme = useThemeStore((state) => state.init);
+  useEffect(() => {
+    initTheme();
+  }, [initTheme]);
+
   return (
     <div className="min-h-screen bg-bg text-text">
       <Navbar />

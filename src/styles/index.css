@@ -58,3 +58,23 @@ textarea {
 .rounded-full {
   border-radius: 0;
 }
+
+:root {
+  --chart-blue: #0f62fe;
+  --chart-blue-strong: #002d9c;
+  --chart-blue-soft: #4589ff;
+  --chart-neutral: #8d8d8d;
+  --chart-grid: #e0e0e0;
+  --chart-tooltip-bg: #ffffff;
+  --chart-tooltip-text: #161616;
+}
+
+:root.dark {
+  --chart-blue: #2dd4bf;
+  --chart-blue-strong: #14b8a6;
+  --chart-blue-soft: #67e8f9;
+  --chart-neutral: #94a3b8;
+  --chart-grid: #30363d;
+  --chart-tooltip-bg: #1c2128;
+  --chart-tooltip-text: #e6edf3;
+}

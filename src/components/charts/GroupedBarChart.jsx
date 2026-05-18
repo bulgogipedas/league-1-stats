@@ -3,7 +3,7 @@ import { useState } from "react";
 import ChartTooltip from "./ChartTooltip.jsx";
 import useResize from "./useResize.js";
 
-export default function GroupedBarChart({ data, keys, labelKey = "label", colors = ["#0F62FE", "#8D8D8D"], height = 320 }) {
+export default function GroupedBarChart({ data, keys, labelKey = "label", colors = ["var(--chart-blue)", "var(--chart-neutral)"], height = 320 }) {
   const [ref, size] = useResize();
   const [tooltip, setTooltip] = useState(null);
   const width = size.width;
@@ -16,7 +16,7 @@ export default function GroupedBarChart({ data, keys, labelKey = "label", colors
       <svg width={width} height={height} role="img" aria-label="Grouped bar chart" onMouseLeave={() => setTooltip(null)}>
         {y.ticks(5).map((tick) => (
           <g key={tick}>
-            <line x1={margin.left} x2={width - margin.right} y1={y(tick)} y2={y(tick)} stroke="#E0E0E0" />
+            <line x1={margin.left} x2={width - margin.right} y1={y(tick)} y2={y(tick)} stroke="var(--chart-grid)" />
             <text x={margin.left - 8} y={y(tick) + 4} textAnchor="end" className="fill-muted text-[10px]">{tick}</text>
           </g>
         ))}

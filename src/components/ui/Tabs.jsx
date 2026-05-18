@@ -9,7 +9,7 @@ export default function Tabs({ tabs, active, onChange }) {
           aria-selected={active === tab.value}
           onClick={() => onChange(tab.value)}
           className={`min-h-12 border-b px-4 py-3 text-sm transition ${
-            active === tab.value ? "border-b-2 border-teal bg-white font-semibold text-text" : "border-border bg-white text-muted hover:bg-panel hover:text-text"
+            active === tab.value ? "border-b-2 border-teal bg-card font-semibold text-text" : "border-border bg-card text-muted hover:bg-panel hover:text-text"
           }`}
         >
           {tab.label}
